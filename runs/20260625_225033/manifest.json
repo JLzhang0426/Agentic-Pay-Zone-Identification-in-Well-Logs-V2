@@ -1,0 +1,93 @@
+{
+  "run_id": "20260625_225033",
+  "timestamp": "2026-06-25T22:50:33",
+  "hypothesis": "smoke test: method dispatch via decisions.csv",
+  "assumptions": {
+    "vsh": {
+      "gr_clean": 20.0,
+      "gr_shale": 120.0,
+      "model": "linear"
+    },
+    "porosity": {
+      "rho_ma": 2.65,
+      "rho_fl": 1.0,
+      "dt_ma": 55.5,
+      "dt_fl": 189.0,
+      "phit": "mean(PHID,PHIN)+Wyllie gap-fill",
+      "phie": "PHIT*(1-VSH)"
+    },
+    "sw": {
+      "archie_a": 0.62,
+      "archie_m": 2.15,
+      "archie_n": 2.0,
+      "rw_fixed": 0.05,
+      "no_rt_fallback": "SW=1.0"
+    },
+    "perm": {
+      "model": "Timur",
+      "c": 0.136,
+      "phi_exp": 4.4,
+      "sw_exp": 2.0,
+      "swirr": "=SW",
+      "units": "linear mD",
+      "poro_units": "percent"
+    },
+    "pay": {
+      "vsh_cut": 0.4,
+      "phie_cut": 0.06,
+      "sw_cut": 0.45
+    },
+    "badhole": "CAL > BHS + 2 in -> no pay",
+    "honeypot": {
+      "hard_threshold": 0.3,
+      "score": "1.5*gas_imp + dn_cross + phid_oob + max(0,0.5-corr_GRNPHI)"
+    },
+    "coverage": "gap-fill computed curves; full depth; PAY=0 padding"
+  },
+  "agent_deviations": [
+    {
+      "well_id": "008a81a1e28845dcab7bed7d8febd9b4",
+      "honeypot": "0",
+      "honeypot_ref": "0",
+      "pay_action": "recompute",
+      "overrides": {},
+      "notes": ""
+    },
+    {
+      "well_id": "00dda84c93a842bba5c912dcf3d7f884",
+      "honeypot": "0",
+      "honeypot_ref": "0",
+      "pay_action": "recompute",
+      "overrides": {},
+      "notes": ""
+    },
+    {
+      "well_id": "01155052c34b43b096bfef59b323d70d",
+      "honeypot": "0",
+      "honeypot_ref": "0",
+      "pay_action": "recompute",
+      "overrides": {},
+      "notes": ""
+    }
+  ],
+  "n_agent_deviations": 3,
+  "stats": {
+    "n_wells": 800,
+    "n_honeypot": 204,
+    "n_recomputed": 3,
+    "n_override": 3,
+    "n_pay": 579,
+    "avg_gate": 0.9904,
+    "validation_issues": 0
+  },
+  "score": {
+    "public": null,
+    "private": null,
+    "A1": null,
+    "A2": null,
+    "A3": null,
+    "A4": null,
+    "recorded_at": null,
+    "notes": ""
+  }
+}

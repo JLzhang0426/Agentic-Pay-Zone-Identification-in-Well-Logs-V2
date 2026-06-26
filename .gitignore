@@ -1,0 +1,21 @@
+# Python env
+.venv/
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# Provided challenge data (large; not our work)
+no_second_guessing_evaluation_data/
+no-second-guessing-submission-sample/
+
+# External reference skills repo (not our solution)
+oil-and-gas-claude-skills/
+
+# Regenerable Stage-0 / submission OUTPUTS (rebuild via run_pipeline / build_submission)
+processed/
+submission/
+
+# Submission packages
+*.zip

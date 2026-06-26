@@ -1,0 +1,352 @@
+{
+  "run_id": "20260625_005732",
+  "timestamp": "2026-06-25T00:57:32",
+  "hypothesis": "run2 agentic: 20 senior-analyst subagents over all 800 wells; honeypot re-adjudication (186, 18 flips vs ref) + 15 CGR/dolomite ov_* recomputes; global conviction reconcile (no per-batch quota)",
+  "assumptions": {
+    "vsh": {
+      "gr_clean": 20.0,
+      "gr_shale": 120.0,
+      "model": "linear"
+    },
+    "porosity": {
+      "rho_ma": 2.65,
+      "rho_fl": 1.0,
+      "dt_ma": 55.5,
+      "dt_fl": 189.0,
+      "phit": "mean(PHID,PHIN)+Wyllie gap-fill",
+      "phie": "PHIT*(1-VSH)"
+    },
+    "sw": {
+      "archie_a": 0.62,
+      "archie_m": 2.15,
+      "archie_n": 2.0,
+      "rw_fixed": 0.05,
+      "no_rt_fallback": "SW=1.0"
+    },
+    "perm": {
+      "model": "Timur",
+      "c": 0.136,
+      "phi_exp": 4.4,
+      "sw_exp": 2.0,
+      "swirr": "=SW",
+      "units": "linear mD"
+    },
+    "pay": {
+      "vsh_cut": 0.4,
+      "phie_cut": 0.06,
+      "sw_cut": 0.6
+    },
+    "badhole": "CAL > BHS + 2 in -> no pay",
+    "honeypot": {
+      "hard_threshold": 0.3,
+      "score": "1.5*gas_imp + dn_cross + phid_oob + max(0,0.5-corr_GRNPHI)"
+    },
+    "coverage": "gap-fill computed curves; full depth; PAY=0 padding"
+  },
+  "agent_deviations": [
+    {
+      "well_id": "1005b570d68642d9aaaeadfc3957525e",
+      "honeypot": "0",
+      "honeypot_ref": "1",
+      "pay_action": "accept",
+      "overrides": {},
+      "notes": "density-porosity OOB 41% fully explained by whole-well washout CAL 13.5 vs bit 8.5; bad-hole artifact not physics; corr healthy 0.93"
+    },
+    {
+      "well_id": "12ca01ef590f4e0eb98e10547d6ccdff",
+      "honeypot": "0",
+      "honeypot_ref": "1",
+      "pay_action": "accept",
+      "overrides": {},
+      "notes": "DN crossover/OOB 16% confined to 3 zones; GR-NPHI very healthy r=0.97; explainable as few bad zones"
+    },
+    {
+      "well_id": "1660bf50bfc04c6e85d4c6d8b71c00fd",
+      "honeypot": "0",
+      "honeypot_ref": "1",
+      "pay_action": "accept",
+      "overrides": {},
+      "notes": "DN crossover 17% scattered in 7 zones rarely at floor; GR-NPHI healthy r=0.84; borderline at cut; explain as bad density samples"
+    },
+    {
+      "well_id": "38f6d9ad73b4427b855a3bb8f56524d1",
+      "honeypot": "0",
+      "honeypot_ref": "1",
+      "pay_action": "accept",
+      "overrides": {},
+      "notes": "score driven only by weak corr 0.08; RHOB clean no DN no gas-imp; sonic_shear artifact; lead double-check"
+    },
+    {
+      "well_id": "5cf62d76879f4c5d8dab9ecf3507fc84",
+      "honeypot": "0",
+      "honeypot_ref": "1",
+      "pay_action": "recompute",
+      "overrides": {},
+      "notes": "dolomite PEF 2.92; sand-matrix OOB 52% drops to 0% with dol matrix; lithology artifact not honeypot; tiny well 47 samples"
+    },
+    {
+      "well_id": "6e0d172eddcb40edae1cdafa223f5e02",
+      "honeypot": "0",
+      "honeypot_ref": "0",
+      "pay_action": "recompute",
+      "overrides": {},
+      "notes": "CGR uranium-free; corr 0.75; GR_p90 85 low so shale endpoint lowered; real"
+    },
+    {
+      "well_id": "7cf6f7f9bcf0462bb31cafb795406bda",
+      "honeypot": "0",
+      "honeypot_ref": "1",
+      "pay_action": "accept",
+      "overrides": {},
+      "notes": "Reference flagged on corr 0.27 but dn 4% phid 6% low; weak corr from mostly-clean sand not inversion; rescue real"
+    },
+    {
+      "well_id": "7da5e100b6124ad8a0262ce79cbb0d5a",
+      "honeypot": "0",
+      "honeypot_ref": "1",
+      "pay_action": "accept",
+      "overrides": {},
+      "notes": "Hole washed out 100% (CAL 13.5 vs bit 8.5); all OOB in bad hole; artifact not baked-in physics; rescue real"
+    },
+    {
+      "well_id": "7eacc63c466c42238199c258289f7023",
+      "honeypot": "0",
+      "honeypot_ref": "0",
+      "pay_action": "recompute",
+      "overrides": {
+        "ov_gr_clean": "20",
+        "ov_gr_shale": "106"
+      },
+      "notes": "CGR uranium-free GR under-calls Vsh; healthy corr 0.93 good hole; set GR endpoints from histogram"
+    },
+    {
+      "well_id": "82b9baf59f84471ea4f39aa71cb67d49",
+      "honeypot": "0",
+      "honeypot_ref": "1",
+      "pay_action": "accept",
+      "overrides": {},
+      "notes": "washout entire hole CAL 13.6 vs BS 8.5 drives RHOB 1.76; density OOB is bad-hole artifact not physics; corr 0.90"
+    },
+    {
+      "well_id": "83f204704cd041279f697d51b9ded9a0",
+      "honeypot": "0",
+      "honeypot_ref": "0",
+      "pay_action": "recompute",
+      "overrides": {
+        "ov_gr_clean": "28",
+        "ov_gr_shale": "120"
+      },
+      "notes": "ambiguous but good hole CAL 8.5 corr 0.92; CGR set GR endpoints from histogram"
+    },
+    {
+      "well_id": "8a797252026646ae834dea41b42366c3",
+      "honeypot": "0",
+      "honeypot_ref": "0",
+      "pay_action": "recompute",
+      "overrides": {
+        "ov_gr_clean": "24",
+        "ov_gr_shale": "81"
+      },
+      "notes": "CGR uranium-free GR reads low in shale; clean24 shale81; corr0.87 healthy; real"
+    },
+    {
+      "well_id": "8eda5182c4e549778297f6d35aa7845f",
+      "honeypot": "1",
+      "honeypot_ref": "1",
+      "pay_action": "recompute",
+      "overrides": {
+        "ov_gr_clean": "37",
+        "ov_gr_shale": "120"
+      },
+      "notes": "CGR but gas_imp13% phid39% pervasive; neutron-density impossible; honeypot"
+    },
+    {
+      "well_id": "908108bbe27944caa52725be57dedd41",
+      "honeypot": "0",
+      "honeypot_ref": "1",
+      "pay_action": "accept",
+      "overrides": {},
+      "notes": "corr0.97 healthy; phid_oob33% is PHID<0 from dense matrix PEF3.27; sand-matrix artifact; real"
+    },
+    {
+      "well_id": "90e2c31854a54b40b092144a15b3d7ff",
+      "honeypot": "0",
+      "honeypot_ref": "0",
+      "pay_action": "recompute",
+      "overrides": {
+        "ov_gr_clean": "22",
+        "ov_gr_shale": "110"
+      },
+      "notes": "CGR; clean22 shale110; corr0.93 healthy; dn12% modest; real"
+    },
+    {
+      "well_id": "91564ccaab1345f19bb5c2d4ce845ec5",
+      "honeypot": "0",
+      "honeypot_ref": "0",
+      "pay_action": "recompute",
+      "overrides": {
+        "ov_gr_clean": "27",
+        "ov_gr_shale": "77"
+      },
+      "notes": "CGR shale reads low p90=77; clean27 shale77; score0; real"
+    },
+    {
+      "well_id": "94aa46c74aa14b54b8e52d170f848b45",
+      "honeypot": "0",
+      "honeypot_ref": "1",
+      "pay_action": "accept",
+      "overrides": {},
+      "notes": "corr0.35 dragged by NPHI=0 floor; cleaned corr0.66 healthy; RES all-NaN water-wet; sonic-shear artifact; real"
+    },
+    {
+      "well_id": "9619ae3f5756441880486688f02c447b",
+      "honeypot": "0",
+      "honeypot_ref": "0",
+      "pay_action": "recompute",
+      "overrides": {
+        "ov_gr_clean": "26.8",
+        "ov_gr_shale": "106.0"
+      },
+      "notes": "CGR uranium-free GR; healthy corr 0.99 zero violations; set GR endpoints from histogram"
+    },
+    {
+      "well_id": "a93a88d2e33c4ec6ad1ab4e2ae797dce",
+      "honeypot": "0",
+      "honeypot_ref": "1",
+      "pay_action": "accept",
+      "overrides": {},
+      "notes": "ref=1 but components clean (gas/dn/phid ~0); only weak corr 0.14 positive not inverted; no pervasive impossibility; lead double-check"
+    },
+    {
+      "well_id": "b5e3be2ec4b54373a3d32b80a1fb148b",
+      "honeypot": "0",
+      "honeypot_ref": "1",
+      "pay_action": "accept",
+      "overrides": {},
+      "notes": "borderline; corr +0.29 positive not inverted; gas_imp 0.002; high-porosity gas-like crossover explainable; lead double-check"
+    },
+    {
+      "well_id": "c3ede4a161d043549fa0000381074e05",
+      "honeypot": "0",
+      "honeypot_ref": "0",
+      "pay_action": "recompute",
+      "overrides": {},
+      "notes": "ambiguous; PEF 2.92 dolomite so phid_oob is matrix mismatch not honeypot; corr 0.96"
+    },
+    {
+      "well_id": "c66bb842523249c688670be88df81c8d",
+      "honeypot": "0",
+      "honeypot_ref": "0",
+      "pay_action": "recompute",
+      "overrides": {
+        "ov_gr_clean": "18",
+        "ov_gr_shale": "48"
+      },
+      "notes": "CGR uranium-free; corr 0.73 dn 10% explainable; set GR endpoints from p10/p90"
+    },
+    {
+      "well_id": "c6b504ee43354b2e92a3756ea1164de0",
+      "honeypot": "0",
+      "honeypot_ref": "0",
+      "pay_action": "recompute",
+      "overrides": {
+        "ov_gr_clean": "44",
+        "ov_gr_shale": "108"
+      },
+      "notes": "CGR well score 0.0 corr 0.81; GR endpoints from histogram"
+    },
+    {
+      "well_id": "c81ee4a58ba34758a23bfe984cbbadaa",
+      "honeypot": "0",
+      "honeypot_ref": "1",
+      "pay_action": "recompute",
+      "overrides": {
+        "ov_gr_clean": "21",
+        "ov_gr_shale": "161"
+      },
+      "notes": "CGR well; zero physics components; ~195ft real pay with CGR endpoints; rescue"
+    },
+    {
+      "well_id": "c8814c53241f4a84b9194a462011bc51",
+      "honeypot": "0",
+      "honeypot_ref": "0",
+      "pay_action": "recompute",
+      "overrides": {
+        "ov_gr_clean": "25",
+        "ov_gr_shale": "112"
+      },
+      "notes": "CGR well score 0.05 corr 0.96; GR endpoints from histogram"
+    },
+    {
+      "well_id": "d3869d66b5ac437a8f7d0c94e94b826b",
+      "honeypot": "0",
+      "honeypot_ref": "0",
+      "pay_action": "recompute",
+      "overrides": {
+        "ov_gr_clean": "10",
+        "ov_gr_shale": "32"
+      },
+      "notes": "clean limestone PEF 4.1 GR 10-32; in-gauge; phid OOB only 6% on recheck; real"
+    },
+    {
+      "well_id": "f3cd8feda4a4411ba90906c785d4f1cc",
+      "honeypot": "0",
+      "honeypot_ref": "1",
+      "pay_action": "accept",
+      "overrides": {},
+      "notes": "corr 0.87 healthy; phid<0 only 0.7%; OOB is high-porosity sand not impossibility; rescue"
+    },
+    {
+      "well_id": "fab377d2387944af88386bb823273465",
+      "honeypot": "0",
+      "honeypot_ref": "1",
+      "pay_action": "accept",
+      "overrides": {},
+      "notes": "reference-flagged but corr 0.92; RHOB 2.32 normal; no bad hole; dn_cross explainable"
+    },
+    {
+      "well_id": "fb7014aebc6f4e3481ea52c93935a9bc",
+      "honeypot": "0",
+      "honeypot_ref": "1",
+      "pay_action": "accept",
+      "overrides": {},
+      "notes": "reference-flagged but corr 0.95; RHOB 2.26 normal; no bad hole; explainable dn_cross"
+    },
+    {
+      "well_id": "fb96b4c7c87740748b477ab588e43d46",
+      "honeypot": "0",
+      "honeypot_ref": "1",
+      "pay_action": "accept",
+      "overrides": {},
+      "notes": "reference-flagged but corr 0.91; RHOB 2.34 normal; gas_imp 0; explainable"
+    },
+    {
+      "well_id": "ff31bd86858e49bda5b22b96e177eda6",
+      "honeypot": "0",
+      "honeypot_ref": "1",
+      "pay_action": "accept",
+      "overrides": {},
+      "notes": "CGR-only GR artifact; corr 0.91 healthy; RHOB 2.23 normal; no bad hole; explainable"
+    }
+  ],
+  "n_agent_deviations": 31,
+  "stats": {
+    "n_wells": 800,
+    "n_honeypot": 186,
+    "n_recomputed": 15,
+    "n_override": 15,
+    "n_pay": 594,
+    "avg_gate": 0.9904,
+    "validation_issues": 0
+  },
+  "score": {
+    "public": 22.3,
+    "private": null,
+    "A1": null,
+    "A2": null,
+    "A3": null,
+    "A4": null,
+    "recorded_at": "2026-06-25T01:05:47",
+    "notes": "agentic run: 186 hp (down from 204), 15 CGR/dolomite ov; scored BELOW baseline -> net agentic changes hurt"
+  }
+}

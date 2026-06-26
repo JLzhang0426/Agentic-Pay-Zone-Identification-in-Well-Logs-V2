@@ -1,0 +1,801 @@
+well_id,honeypot_ref,honeypot,honeypot_score,ambiguous,pay_action,ov_gr_clean,ov_gr_shale,ov_rho_ma,ov_m,ov_n,ov_rw,ov_vsh_cut,ov_phie_cut,ov_sw_cut,net_pay_ref,notes
+008a81a1e28845dcab7bed7d8febd9b4,0,0,0.1175,0,accept,,,,,,,,,,24.0,
+00dda84c93a842bba5c912dcf3d7f884,0,0,0.0,0,accept,,,,,,,,,,85.5,
+01155052c34b43b096bfef59b323d70d,0,0,0.0794,0,accept,,,,,,,,,,104.0,
+01cb6035729e431a9153167ad247edfc,0,0,0.0169,0,accept,,,,,,,,,,169.5,
+01dc0279a4b74d0caffebb49f00286ca,0,0,0.0,0,accept,,,,,,,,,,98.5,
+0254d93c31c84cc286a97e99c70474a4,0,0,0.0102,0,accept,,,,,,,,,,142.0,
+02a3d8c533f94c078f62f801cb88148d,1,1,0.7671,0,accept,,,,,,,,,,0.0,density-porosity OOB 77%
+02b466d77c694e06b254edaaedbc5689,0,0,0.0578,0,accept,,,,,,,,,,129.0,
+02bc75fa9e6840c1aeab665063361ce1,1,1,0.5683,0,accept,,,,,,,,,,0.0,density-porosity OOB 21%
+030a6ceaabf5430ea30acd671d0d2aa7,1,1,0.3995,0,accept,,,,,,,,,,0.0,DN crossover 19%; density-porosity OOB 21%
+03f65be0dc074aa18b22c1bf21a0e2df,0,0,0.1874,0,accept,,,,,,,,,,98.5,
+040086c1b6fd4abfb585e3bfe78244b4,0,0,0.0189,0,accept,,,,,,,,,,34.0,
+04a27469892a4fabb084f2f2b5bbca09,0,0,0.2136,0,accept,,,,,,,,,,189.5,
+0520c101e4e04507808cdba98cb10377,1,1,0.3944,0,accept,,,,,,,,,,0.0,DN crossover 19%; density-porosity OOB 20%
+05360fcd060e4183bb33f5fe50d4d1b3,0,0,0.2288,0,accept,,,,,,,,,,169.5,
+0555f245365447d5bc4adc153cc34980,0,0,0.1935,0,accept,,,,,,,,,,0.0,density-porosity OOB 19%
+05cc418b68194a9ea4fbbb4affde607b,0,0,0.2202,0,accept,,,,,,,,,,325.0,
+05f283f468de4325a1cef03b23682244,1,1,0.744,0,accept,,,,,,,,,,0.0,neutron-density impossible 18%; DN crossover 19%; density-porosity OOB 28%
+0614f545342d4277bce3d918d617daca,0,0,0.0158,0,accept,,,,,,,,,,131.0,
+061756c2dff340249661ed788b40d1dc,0,0,0.0968,0,accept,,,,,,,,,,187.0,
+068f5ccb27504188a42183155bda4bb0,1,1,0.4155,0,accept,,,,,,,,,,0.0,DN crossover 20%; density-porosity OOB 21%
+06da48c78e6e4e1095bf12be7053fb3f,0,0,0.0184,0,accept,,,,,,,,,,117.5,
+070cdd6c286447b5971bcdbdae557847,1,1,0.3207,0,accept,,,,,,,,,,0.0,DN crossover 15%; density-porosity OOB 17%
+070ea204900243aa8b4650681aeeac64,0,0,0.0909,0,accept,,,,,,,,,,279.5,
+07b6a9c7187a4bc3a160a26c750066af,1,1,0.8132,0,accept,,,,,,,,,,0.0,density-porosity OOB 25%
+07d5a7d30b1a490998dd4adbd006d2f0,0,0,0.2932,1,accept,,,,,,,,,,219.0,density-porosity OOB 15%
+0897d3c69d144bb58c5124d432dd4f96,0,0,0.0447,0,accept,,,,,,,,,,109.0,
+08a5efb6580448f9908d0b5e9c29dfeb,1,1,0.4236,0,accept,,,,,,,,,,0.0,DN crossover 21%; density-porosity OOB 22%
+08b88f478410445a9e77d14bed3a366a,0,0,0.0169,0,accept,,,,,,,,,,134.0,
+08c9992f01f94fe886a8e156aca4bde5,0,0,0.1517,0,accept,,,,,,,,,,95.5,
+08fb17d42bfc45a3884194f597f755ca,0,0,0.1059,0,accept,,,,,,,,,,95.0,
+09d16b74a4f54b43a747d0d1d8b7c3ea,0,0,0.0,0,accept,,,,,,,,,,111.0,
+09fffc16465f4819bf157ee7b07bc42d,1,1,0.3456,0,accept,,,,,,,,,,0.0,DN crossover 17%; density-porosity OOB 18%
+0a02bac0ecde4e93bfe72f9878eb836d,0,0,0.0337,0,accept,,,,,,,,,,30.0,
+0a371dfda0f64272b24c7cd5b7d70e6a,0,0,0.094,0,accept,,,,,,,,,,225.0,
+0a7498d33ffd47148e2b3931870cf69f,0,0,0.1245,0,accept,,,,,,,,,,154.5,
+0a9d1ea2306c4d01b729d9ff65587942,0,0,0.0312,0,accept,,,,,,,,,,26.5,
+0b18eab9ae0148edbcf9cbf607fb0147,0,0,0.0017,0,accept,,,,,,,,,,108.5,
+0bb8e2882ad6426ca529fcfc730d7908,0,0,0.0767,0,accept,,,,,,,,,,281.0,
+0be80b6650d44e82984909303362144d,0,0,0.0099,0,accept,,,,,,,,,,95.0,
+0c3d74f5fa684889ac78442c6d05df52,0,0,0.2111,0,accept,,,,,,,,,,143.0,
+0c59bb9bd1104fd2a0d8e992e86a47b9,1,1,0.439,0,accept,,,,,,,,,,0.0,
+0cb8704054dc47608de0f28728983293,1,1,0.5387,0,accept,,,,,,,,,,0.0,
+0d6a3df8f9f54df4bf81c8601d9961c6,0,0,0.0044,0,accept,,,,,,,,,,135.5,
+0d9332063bd14ba69e224d6c9276b3ae,0,0,0.0705,0,accept,,,,,,,,,,177.0,
+0da66e1cf8b842eaa11e92196f5ee9d5,1,1,1.4695,0,accept,,,,,,,,,,0.0,density-porosity OOB 32%; GR-NPHI inverted r=-0.55
+0e71c53a6b164a4b923949199b8cacc8,1,1,0.5142,0,accept,,,,,,,,,,0.0,neutron-density impossible 11%; density-porosity OOB 25%
+0eb41ddf3553443b90687f4076513d78,0,0,0.0227,0,accept,,,,,,,,,,174.5,
+0ee85d3fcfcd4e69aaf8caaabc130c39,0,0,0.1773,0,accept,,,,,,,,,,0.0,density-porosity OOB 18%
+0eef38575f2f484bb42f65abeff5c26a,0,0,0.131,0,accept,,,,,,,,,,119.5,
+0effee457908482f8512b9dfbae7cb85,1,1,0.4135,0,accept,,,,,,,,,,0.0,DN crossover 19%; density-porosity OOB 22%
+0f117a3776654487927cd62999b7826c,0,0,0.1555,0,accept,,,,,,,,,,79.5,
+0f43ce0462ea471f8500596e5ce3a1c8,0,0,0.1076,0,accept,,,,,,,,,,113.0,
+0f82f8e1d9e645d9a71f96658c442647,0,0,0.0444,0,accept,,,,,,,,,,0.0,
+0fb8928230a446278d65ba49b50dc627,0,0,0.2394,0,accept,,,,,,,,,,22.5,neutron-density impossible 6%
+1005b570d68642d9aaaeadfc3957525e,1,1,0.5272,0,accept,,,,,,,,,,0.0,density-porosity OOB 41%
+10dfac37ac4946b294505d1dd5cba522,0,0,0.0145,0,accept,,,,,,,,,,178.5,
+11a3f34cc694444982a8ee48602a63ce,0,0,0.1185,0,accept,,,,,,,,,,132.5,
+11bcdd09663b4d50b2b864b858a3248a,1,1,1.4128,0,accept,,,,,,,,,,0.0,neutron-density impossible 20%; DN crossover 35%; density-porosity OOB 21%; GR-NPHI inverted r=-0.05
+128faf2259f24d10ba51a44204f4510d,1,1,0.9974,0,accept,,,,,,,,,,0.0,neutron-density impossible 19%; density-porosity OOB 30%
+12ca01ef590f4e0eb98e10547d6ccdff,1,1,0.322,0,accept,,,,,,,,,,0.0,DN crossover 16%; density-porosity OOB 16%
+133ac4f8766a4021b82c3f988b6f41cd,0,0,0.0129,0,accept,,,,,,,,,,66.5,
+13b4a532e3ea447fa56251d46244d9fd,0,0,0.0,0,accept,,,,,,,,,,62.0,
+14196706720946deaadfd0ec58f7b118,0,0,0.0064,0,accept,,,,,,,,,,9.5,
+144c94959a8a46dd82f9036cbdd045a2,0,0,0.0061,0,accept,,,,,,,,,,47.0,
+14c4e168f3c94dca98b0c41ba50c69fd,1,1,1.0329,0,accept,,,,,,,,,,0.0,neutron-density impossible 13%; GR-NPHI inverted r=-0.10
+14cd7be78a204584b47b542bc22d69e3,0,0,0.0205,0,accept,,,,,,,,,,140.0,
+14e39492275e4593a2a0b511ddb8e08b,0,0,0.007,0,accept,,,,,,,,,,136.0,
+15e8c93423034269867f045203d6c7b7,0,0,0.0,0,accept,,,,,,,,,,62.5,
+16140b8307e54d2290113df2ce4f8929,0,0,0.03,0,accept,,,,,,,,,,48.0,
+1660bf50bfc04c6e85d4c6d8b71c00fd,1,1,0.3557,0,accept,,,,,,,,,,0.0,DN crossover 17%; density-porosity OOB 18%
+16e93e9a67ec4a3f8cc523e1208dac5f,1,1,0.7337,0,accept,,,,,,,,,,0.0,DN crossover 16%; density-porosity OOB 17%
+1735a543de6649f29859f081fdd9b8d1,0,0,0.0,0,accept,,,,,,,,,,92.5,
+173fc8a390a5491b941356154efc66a7,1,1,0.4348,0,accept,,,,,,,,,,0.0,density-porosity OOB 43%
+1787fb253f9c486b851e5f5540fd45ef,0,0,0.0033,0,accept,,,,,,,,,,250.5,
+1792d7195ead4bb797ae1664cca53f16,0,0,0.0395,0,accept,,,,,,,,,,81.0,
+17985982829a45dcb57ea813d4263567,0,0,0.0194,0,accept,,,,,,,,,,310.5,
+18148cb7283c4a34ba7cc3dd64eec59e,0,0,0.0042,0,accept,,,,,,,,,,48.0,
+183b4fe5c2274412a717271a499a7639,0,0,0.0182,0,accept,,,,,,,,,,66.5,
+18af92589ba448d8a609de9aa0524f2c,0,0,0.0,0,accept,,,,,,,,,,55.0,
+18b2eee7a6344478b0ddda665db4fc45,0,0,0.0756,0,accept,,,,,,,,,,228.0,
+1903014472524e2090ccb263f6c4c135,1,1,0.3229,0,accept,,,,,,,,,,0.0,DN crossover 15%; density-porosity OOB 17%
+1984a8e33aba49729af48e4fe9a0c692,1,1,0.3822,0,accept,,,,,,,,,,0.0,neutron-density impossible 6%; density-porosity OOB 19%
+19cd4cd21d2146a2bb43a85a664a9af2,0,0,0.131,0,accept,,,,,,,,,,41.0,
+1a7021f5236d4fb18c60308943deeaeb,0,0,0.0937,0,accept,,,,,,,,,,182.5,
+1a9659fc83a54b908dd80813aee281a9,0,0,0.02,0,accept,,,,,,,,,,8.0,
+1ba870df769f4b72ac995f39f9ed1a04,0,0,0.2394,0,accept,,,,,,,,,,114.5,
+1bc6b4c9d770466eb414234e58312729,0,0,0.0686,0,accept,,,,,,,,,,172.5,
+1bd068fd2e3f4364a082d903a14eacf1,0,0,0.0728,0,accept,,,,,,,,,,224.5,
+1bf2798b1b154ab88b2da3eafb556c62,0,0,0.0101,0,accept,,,,,,,,,,211.5,
+1c44ec42a9c741109a67728dfb4f138a,1,1,0.3399,0,accept,,,,,,,,,,0.0,DN crossover 17%; density-porosity OOB 17%
+1c9ae580fd694749920151854f0ad659,0,0,0.0639,0,accept,,,,,,,,,,53.0,
+1cb6762bdfa0435b96f404ff4e8e4ff8,0,0,0.0027,0,accept,,,,,,,,,,49.0,
+1d091abafd64459cb1bd6b580b79a409,0,0,0.0179,0,accept,,,,,,,,,,201.0,
+1dee15dd67d749df826fe8f0ab8f5f99,0,0,0.1639,0,accept,,,,,,,,,,365.0,
+1e38232af3af416c98a1346d66107ca0,0,0,0.0026,0,accept,,,,,,,,,,232.0,
+1e964686c9614fceb65abb1c9ea81ffe,0,0,0.0511,0,accept,,,,,,,,,,123.0,
+1ee28d636c2c4fbb9bd54e0ad4ea7844,0,0,0.1874,0,accept,,,,,,,,,,142.5,
+1fb2f7b60fe347e28acf5c0889417c62,0,0,0.2357,0,accept,,,,,,,,,,43.0,
+1fc54168c419478083772e187deb8a8b,0,0,0.0093,0,accept,,,,,,,,,,1.0,
+20d7e591f5584e95b1c92420a8c861eb,0,0,0.2555,0,accept,,,,,,,,,,0.5,neutron-density impossible 6%
+20d8a6f7e09243d0bba618028fdf62cf,0,0,0.1782,0,accept,,,,,,,,,,217.0,
+216119e0662e402aaa26caeab7aaeef3,0,0,0.0,0,accept,,,,,,,,,,0.0,
+21c24bf285904f7fbfadb4d7e0d596b3,0,0,0.0074,0,accept,,,,,,,,,,202.0,
+21eb8e5aa5ff476e921329770a693d54,0,0,0.2925,1,accept,,,,,,,,,,431.0,density-porosity OOB 15%
+220df64397d9467f9e44c39d30f67133,1,1,0.3577,0,accept,,,,,,,,,,0.0,DN crossover 17%; density-porosity OOB 18%
+22819c615bfe46a59c1435440ce54073,0,0,0.0,0,accept,,,,,,,,,,185.5,
+22af30f94826496a8a49403c1d17d464,0,0,0.0159,0,accept,,,,,,,,,,99.5,
+22ea0efc83ad4a83aebcb6f79b8f72f2,0,0,0.1078,0,accept,,,,,,,,,,243.5,
+22edfbafa9cb481886f10de541912679,0,0,0.0409,0,accept,,,,,,,,,,69.5,
+231901bdd3c24ea5a0db4b34c84aeafb,0,0,0.153,0,accept,,,,,,,,,,130.5,
+23468e3552ba43a9b0fc29eee3a6344b,0,0,0.0288,0,accept,,,,,,,,,,43.5,
+23c85adfcc324699a0012c003f26ceff,0,0,0.1436,0,accept,,,,,,,,,,233.0,
+241802c0e52c4827a6c6ccb619da8936,0,0,0.0,0,accept,,,,,,,,,,73.0,
+241caa85c9484fad8fcb1a50c4522ed2,0,0,0.1939,0,accept,,,,,,,,,,258.5,
+244bc595e36b4aa68f9ad81f4418bcfc,0,0,0.1712,0,accept,,,,,,,,,,50.0,
+261246ac08124561a5c2b4d4aa41369e,0,0,0.0,0,accept,,,,,,,,,,44.5,
+2621dff689d047abaff0ac05b0cf0c8e,0,0,0.2652,1,accept,,,,,,,,,,38.5,density-porosity OOB 17%
+2690c682297a450dbb0612f93f0767a2,0,0,0.0,0,accept,,,,,,,,,,123.5,
+27521b796ee4417e99ae52a8cf0767d0,1,1,0.5714,0,accept,,,,,,,,,,0.0,density-porosity OOB 57%
+2796249facfc404a80e3e48e4d4368f0,0,0,0.2134,0,accept,,,,,,,,,,103.5,
+282c01bb93b94fb9b89718874203db76,1,1,0.381,0,accept,,,,,,,,,,0.0,DN crossover 17%; density-porosity OOB 21%
+287f3841a2d941f19baa22cd506d61ea,0,0,0.1869,0,accept,,,,,,,,,,167.0,
+28a07f1a9af84d26bd2ddfdf283c5ca1,1,1,0.6613,0,accept,,,,,,,,,,0.0,density-porosity OOB 66%
+28a1ff20e15c4c78b604b62fdf2e2cf9,1,1,0.4053,0,accept,,,,,,,,,,0.0,DN crossover 20%; density-porosity OOB 21%
+290f15eaf8364088936029a241186980,0,0,0.1424,0,accept,,,,,,,,,,358.0,
+291ca8b6d90f41029862f8723c53e75d,0,0,0.0115,0,accept,,,,,,,,,,177.5,
+2a25bf93b31c47f282c9c2fe9949a115,0,0,0.2898,1,accept,,,,,,,,,,125.5,
+2a775616226f44d6a90bdb5e2d258223,0,0,0.01,0,accept,,,,,,,,,,216.5,
+2a96ae191a03486c8fd3c24973418708,1,1,0.3076,0,accept,,,,,,,,,,0.0,neutron-density impossible 6%; density-porosity OOB 18%
+2aa0fc483f214096868dbca4066eacd9,1,1,0.358,0,accept,,,,,,,,,,0.0,DN crossover 17%; density-porosity OOB 19%
+2aa513d031414266b7ca119b296cd018,1,1,1.5094,0,accept,,,,,,,,,,0.0,neutron-density impossible 21%; DN crossover 30%; density-porosity OOB 57%
+2ab8df932fc74dc8856d482da4908da1,0,0,0.004,0,accept,,,,,,,,,,177.5,
+2ad69e44683c48b4a02f167f029e496c,0,0,0.2533,0,accept,,,,,,,,,,197.5,
+2b013c22a51a4bee8ac2164d4782b636,1,1,0.3021,0,accept,,,,,,,,,,0.0,density-porosity OOB 16%
+2b8785d563694c829872490c4e4393fa,0,0,0.293,1,accept,,,,,,,,,,0.0,density-porosity OOB 28%
+2bd5da58ed7040feb8c95112142dd7cd,1,1,0.341,0,accept,,,,,,,,,,0.0,DN crossover 16%; density-porosity OOB 18%
+2c2917c9074446fa944f3d998f0e07d3,0,0,0.1709,0,accept,,,,,,,,,,36.0,
+2c2f3d1dda154e509939e77646323de1,0,0,0.0092,0,accept,,,,,,,,,,101.5,
+2c840bb750554c1b846940c04240cbc3,0,0,0.2722,1,accept,,,,,,,,,,224.5,
+2caa5d1edc254f8ba97a0a6d42f894d5,0,0,0.0241,0,accept,,,,,,,,,,74.5,
+2ccc524fba7140079c0b05c9509bdd3b,1,1,0.5804,0,accept,,,,,,,,,,0.0,DN crossover 28%; density-porosity OOB 30%
+2cde6c0bff7844ff99ce40df4be36d7a,0,0,0.0104,0,accept,,,,,,,,,,111.0,
+2cf6e99afe504e0a8aba7fae8dfaa7dc,0,0,0.1211,0,accept,,,,,,,,,,100.0,
+2d0a0bd6fb914ec7aee8db5561971d0a,1,1,1.1331,0,accept,,,,,,,,,,0.0,neutron-density impossible 25%; DN crossover 22%; density-porosity OOB 30%
+2d5a1b2d1f3945eb9a4b2042c2be3886,0,0,0.0,0,accept,,,,,,,,,,118.5,
+2d9b42ff2f6742139830db95c7915ec1,0,0,0.0377,0,accept,,,,,,,,,,20.0,
+2da2db0656e14cecb9a6d1013879da47,1,1,0.3464,0,accept,,,,,,,,,,0.0,DN crossover 17%; density-porosity OOB 18%
+2da3fb13245041dab9a11b928a30e50e,0,0,0.0171,0,accept,,,,,,,,,,34.5,
+2daf991fb8954eee9bac8f5953dd944f,1,1,0.3563,0,accept,,,,,,,,,,0.0,DN crossover 17%; density-porosity OOB 19%
+2de8019b0c8a47d5a79264d63e3e77c5,0,0,0.011,0,accept,,,,,,,,,,202.5,
+2debac8b28fd4a21a80d68cb788ff99c,1,1,0.301,0,accept,,,,,,,,,,0.0,density-porosity OOB 16%
+2df2a3b6d750407eaa705b853f8858d7,0,0,0.0062,0,accept,,,,,,,,,,81.5,
+2e33364b8c13471b969a6a93565f84e0,0,0,0.0156,0,accept,,,,,,,,,,132.5,
+2e6315fd30534ec99db4fd76f222c24e,1,1,1.9156,0,accept,,,,,,,,,,0.0,neutron-density impossible 32%; DN crossover 46%; density-porosity OOB 58%
+2ebcd3a714db4a759f755816aee11181,0,0,0.035,0,accept,,,,,,,,,,107.5,
+2efac2566afe4405bc3f04cccba86889,0,0,0.2733,1,accept,,,,,,,,,,0.0,density-porosity OOB 27%
+2f308ad4973b4867a164fd93a421f13b,0,0,0.0339,0,accept,,,,,,,,,,80.0,
+2f7a0d2b4d4445f7b2819f350cddc5f1,1,1,0.7922,0,accept,,,,,,,,,,0.0,neutron-density impossible 9%; DN crossover 32%; density-porosity OOB 16%
+2f84f2786f5243a2897f15e94f2f7c9f,0,0,0.0934,0,accept,,,,,,,,,,189.0,
+3020950e02da4aea9dc8e2cdad25c4d6,0,0,0.0615,0,accept,,,,,,,,,,114.5,
+309ad0a7a60d426ba4cae964750082e2,0,0,0.098,0,accept,,,,,,,,,,270.0,
+30e47956dae642edae3d8b6100a6dd57,0,0,0.0104,0,accept,,,,,,,,,,147.5,
+30ec6626e5f64547b0bbfca81f2a7272,0,0,0.0066,0,accept,,,,,,,,,,247.0,
+312151292209410484bc1591484ec9ff,0,0,0.2924,1,accept,,,,,,,,,,0.0,density-porosity OOB 29%
+317491cb93f74461ae47415e59d250c4,0,0,0.077,0,accept,,,,,,,,,,167.0,
+317ee32837774f5fa1a7bde4747f6f0c,1,1,0.4918,0,accept,,,,,,,,,,0.0,DN crossover 24%; density-porosity OOB 25%
+3198e2869ced495a9bba5462969a6f88,0,0,0.0069,0,accept,,,,,,,,,,88.0,
+324bd097e52d4c298607560e6d6ca63a,1,1,0.3216,0,accept,,,,,,,,,,0.0,density-porosity OOB 32%
+324f0f863dd0458ab607a249eab2d2a0,1,1,1.2085,0,accept,,,,,,,,,,0.0,neutron-density impossible 23%; DN crossover 21%; density-porosity OOB 34%
+333a745b78a14bb396c4ec002f45ff09,0,0,0.0,0,accept,,,,,,,,,,16.0,
+33728e6e47f2467a9888fc375c2c7f4b,1,1,0.4301,0,accept,,,,,,,,,,0.0,DN crossover 21%; density-porosity OOB 22%
+33aa298d8617412c878686ccd5babcf7,0,0,0.031,0,accept,,,,,,,,,,187.0,
+340840e246114f858b334e5fa2d43e73,0,0,0.0,0,accept,,,,,,,,,,142.5,
+34126618c487423ebec6dac4d543a3e2,0,0,0.0289,0,accept,,,,,,,,,,59.0,
+3422e18a242743b08ac48163fded0a29,0,0,0.1533,0,accept,,,,,,,,,,81.5,
+3468de608d33496a8ef0ca763197add0,0,0,0.0939,0,accept,,,,,,,,,,285.0,
+348cced7e4cc458fb88bb37c05500029,1,1,1.3439,0,accept,,,,,,,,,,0.0,neutron-density impossible 25%; DN crossover 29%; density-porosity OOB 24%
+34a3203b88ef48449105cfb7ced843c5,0,0,0.0095,0,accept,,,,,,,,,,71.0,
+36a2cf6d2d61405e836e9c94d427ac36,0,0,0.0107,0,accept,,,,,,,,,,81.0,
+36d22478908b4f5fa7fb13518f025592,0,0,0.2158,0,accept,,,,,,,,,,14.0,density-porosity OOB 21%
+37039392ff6245e4a5e9be691d43bf7a,1,1,0.6498,0,accept,,,,,,,,,,0.0,density-porosity OOB 16%
+376b6e0c18744bfea8ad87933aae16e2,0,0,0.0407,0,accept,,,,,,,,,,79.0,
+3821cbcfd6024b2181d7849ec6d7bf9f,0,0,0.1706,0,accept,,,,,,,,,,59.0,
+3870e29d2fc6438ea68b2aa5d015c47e,1,1,0.7208,0,accept,,,,,,,,,,0.0,DN crossover 34%; density-porosity OOB 38%
+38ad07821a184f7bb07195632e33f824,0,0,0.0146,0,accept,,,,,,,,,,117.0,
+38bcfa37850144e98d55aa2b820b090d,0,0,0.0944,0,accept,,,,,,,,,,162.0,
+38cbf12a66df4cacaf8521624e92731b,0,0,0.0952,0,accept,,,,,,,,,,45.5,
+38d1f95692f24bc58bcb6d2aab266300,0,0,0.0204,0,accept,,,,,,,,,,124.5,
+38f6d9ad73b4427b855a3bb8f56524d1,1,1,0.4375,0,accept,,,,,,,,,,0.0,
+39447fa3c42343ba987784d1c23f723c,0,0,0.0695,0,accept,,,,,,,,,,109.0,
+394e8092fc0447788cfd0049cd5df245,0,0,0.0619,0,accept,,,,,,,,,,295.0,
+3971e3a3055043c7bc6e2256010cf7f2,0,0,0.0,0,accept,,,,,,,,,,23.0,
+39a43c6195b54e1a80b5a217a7718942,0,0,0.0142,0,accept,,,,,,,,,,41.5,
+3a5aa1fa232d4dd8b93bb7e9a65bf68a,0,0,0.0,0,accept,,,,,,,,,,23.5,
+3b110bf28b1c4276ad6090a4505b18cf,0,0,0.0051,0,accept,,,,,,,,,,100.0,
+3b1a1ea3dbb4479ab07954aea3d3955d,0,0,0.0,0,accept,,,,,,,,,,186.0,
+3b632e78ee064229a56838341a7488cc,0,0,0.0191,0,accept,,,,,,,,,,144.0,
+3c099b8df0eb45d88f5acfc2592f7f6b,0,0,0.1498,0,accept,,,,,,,,,,166.5,
+3c5f9d1a865644a1b1bcb9dac37fce68,0,0,0.0,0,accept,,,,,,,,,,92.5,
+3ccdc50ac2bb4b22aadba77869c47fe8,0,0,0.1537,0,accept,,,,,,,,,,366.5,
+3cec552899cb4bdba44391ff728177d5,1,1,0.8034,0,accept,,,,,,,,,,0.0,DN crossover 39%; density-porosity OOB 41%
+3d0592dcb4b84262a00865191b852821,1,1,0.9421,0,accept,,,,,,,,,,0.0,neutron-density impossible 21%; DN crossover 21%; density-porosity OOB 18%
+3daf6887e60641cf9ebf38dddc6cc705,0,0,0.1926,0,accept,,,,,,,,,,90.5,
+3e5d3da1f62747048234373cdb6b2be7,1,1,0.6634,0,accept,,,,,,,,,,0.0,density-porosity OOB 66%
+3ed2ed8ed5ac4faaa75c930912052181,0,0,0.0896,0,accept,,,,,,,,,,74.5,
+3ee9dfef4f714dd2b5ef92eae0659c10,0,0,0.2334,0,accept,,,,,,,,,,196.0,
+3f0dd41f831b4046b6f8738ea0c56e48,0,0,0.0477,0,accept,,,,,,,,,,206.0,
+3f0e5d2fa69c466bbfee04d9b76d2eb0,1,1,0.4578,0,accept,,,,,,,,,,0.0,DN crossover 21%; density-porosity OOB 24%
+3f1aa9eb002f4fb6a10e669c982b802c,0,0,0.2734,1,accept,,,,,,,,,,212.5,
+3f46309b1b4747a8a1f4d3dc336fd442,0,0,0.0158,0,accept,,,,,,,,,,254.0,
+3f49b4279fac44e6bba49efd27f32484,0,0,0.2951,1,accept,,,,,,,,,,138.0,density-porosity OOB 17%
+3f617c3ff81940e18d36b4e544ffe7b9,0,0,0.0,0,accept,,,,,,,,,,133.0,
+4069730a6f364e2cbbb6758fd742a116,0,0,0.0998,0,accept,,,,,,,,,,83.5,
+4144d921711d4de382a0268439d3d844,1,1,1.7303,0,accept,,,,,,,,,,0.0,neutron-density impossible 20%; DN crossover 29%; density-porosity OOB 41%; GR-NPHI inverted r=-0.24
+4146652502cf4faa81e8df6863bbc9ee,0,0,0.0251,0,accept,,,,,,,,,,124.5,
+41824c42f8c14b8bbfcf90a04490caa4,0,0,0.0958,0,accept,,,,,,,,,,61.5,
+41e450058e964069b34c95bab2fc5b4c,0,0,0.2776,1,accept,,,,,,,,,,193.0,density-porosity OOB 15%
+42cfe71ea9ef42b9806b1b53ec5f81e7,0,0,0.1344,0,accept,,,,,,,,,,137.5,
+42fe1db43ba749a0bb26be4b0fa3f063,0,0,0.009,0,accept,,,,,,,,,,243.5,
+4343c76850f9400f927bbec05d5d23ff,0,0,0.0,0,accept,,,,,,,,,,291.0,
+44cdd62f38d74604b778b295fb213583,1,1,0.9431,0,accept,,,,,,,,,,0.0,neutron-density impossible 14%; DN crossover 36%
+44ddaeb988ae42a684992aaa52f31197,1,1,0.3409,0,accept,,,,,,,,,,0.0,DN crossover 16%; density-porosity OOB 18%
+44fdb519f0b145feb5c20a438635860b,0,0,0.0137,0,accept,,,,,,,,,,255.5,
+4500f4c604934ef79cc07df34b0d6e24,1,1,1.0811,0,accept,,,,,,,,,,0.0,neutron-density impossible 13%; DN crossover 19%; density-porosity OOB 31%
+456ef2e2736d402e9c36d07850fc13aa,0,0,0.0087,0,accept,,,,,,,,,,182.0,
+45cc1d9ac3ab406c9bf175a88e1b8c8a,1,1,0.3326,0,accept,,,,,,,,,,0.0,DN crossover 15%; density-porosity OOB 18%
+45d1eef879994ee3a222c7c5046c7a40,1,1,0.8238,0,accept,,,,,,,,,,0.0,GR-NPHI inverted r=-0.16
+45fd2e993d98405da0140ed902911953,0,0,0.0117,0,accept,,,,,,,,,,81.0,
+4669f25d04c6411386f1a9316aca993a,0,0,0.1326,0,accept,,,,,,,,,,307.0,
+46d9f92f2ba24730b83c80391ac3bfb5,1,1,1.6306,0,accept,,,,,,,,,,0.0,neutron-density impossible 11%; density-porosity OOB 42%; GR-NPHI inverted r=-0.45
+46fdcb16c5ec4a30844092254a0e11d4,1,1,1.2671,0,accept,,,,,,,,,,0.0,neutron-density impossible 33%; DN crossover 33%; density-porosity OOB 45%
+473c1543e8ca4d3dba3e8e3af575bad9,0,0,0.0094,0,accept,,,,,,,,,,70.5,
+4747cd776421453f9dc049fd745f2421,0,0,0.0217,0,accept,,,,,,,,,,309.5,
+47cba280f1e1489c88eacdb7e10f3ccc,0,0,0.0143,0,accept,,,,,,,,,,113.0,
+47e7976204714447ae55352833554499,0,0,0.2129,0,accept,,,,,,,,,,126.0,
+480f3497bd17407dbdc756d8debe967a,1,1,2.3731,0,accept,,,,,,,,,,0.0,neutron-density impossible 31%; DN crossover 60%; density-porosity OOB 74%; GR-NPHI inverted r=-0.06
+48873c5bc8e4442ea76f052ab57ead5f,0,0,0.0049,0,accept,,,,,,,,,,314.5,
+489eb2fdeba146a7b0ab9cc935316b0c,0,0,0.0062,0,accept,,,,,,,,,,67.0,
+495f3e95640a4190a645d1573468c397,0,0,0.1267,0,accept,,,,,,,,,,79.0,
+498a0b59772741b98e097fa40dd77078,0,0,0.045,0,accept,,,,,,,,,,112.5,
+498f4a160f7f4b55b0612dc0aab4d869,0,0,0.1407,0,accept,,,,,,,,,,205.0,
+49e8651c22cd4c34a383f0b95e3f0d2c,1,1,1.1002,0,accept,,,,,,,,,,0.0,neutron-density impossible 12%; DN crossover 22%; GR-NPHI inverted r=-0.13
+4a22cdb58e7a48658c202066eac50392,0,0,0.165,0,accept,,,,,,,,,,42.0,
+4a6f361ce59541a0909cb6c6b5d594cb,0,0,0.0783,0,accept,,,,,,,,,,244.0,
+4a86fdc7116d483293eab27839d0df90,1,1,0.324,0,accept,,,,,,,,,,0.0,density-porosity OOB 24%
+4c086a70b71e44f083d84b5a556078b5,0,0,0.1232,0,accept,,,,,,,,,,144.0,
+4c1b4395b3ac4e14b03fab48ccc695f8,0,0,0.0641,0,accept,,,,,,,,,,411.0,
+4c8ee9cddce340dabfb3da822074d83b,0,0,0.0242,0,accept,,,,,,,,,,118.0,
+4ca6531db71a47e5940fed23b91777dd,0,0,0.221,0,accept,,,,,,,,,,138.5,
+4d0f6c870f3149e6a1887b0f96d50c56,1,1,0.3361,0,accept,,,,,,,,,,0.0,neutron-density impossible 7%; density-porosity OOB 16%
+4d40338bdba64869b81e7902c063b8fc,0,0,0.0132,0,accept,,,,,,,,,,113.5,
+4d5a3587bae64d97b79fc5b42df73a07,0,0,0.0,0,accept,,,,,,,,,,74.0,
+4d62054a58df4d9abc18ad6b5998c8b0,0,0,0.1086,0,accept,,,,,,,,,,125.0,
+4e0238e587a64b268ac97999d9fdfe82,1,1,0.7818,0,accept,,,,,,,,,,0.0,GR-NPHI inverted r=-0.28
+4e5e15a9d6074298a699df5f0480183d,0,0,0.2071,0,accept,,,,,,,,,,170.5,
+4e5f407c4cc34df69b41057ed8d1eb55,0,0,0.0065,0,accept,,,,,,,,,,177.5,
+4e7b4589bb5941d2bb4a9aa9783ee247,0,0,0.047,0,accept,,,,,,,,,,318.0,
+4e833a953f0042b18ee1367ea10f9630,0,0,0.0212,0,accept,,,,,,,,,,104.0,
+4eba0de8fde14e248eb5151fadc6912a,1,1,0.3709,0,accept,,,,,,,,,,0.0,DN crossover 18%; density-porosity OOB 19%
+4ec72489709d4d5ebd41d6a840367871,0,0,0.015,0,accept,,,,,,,,,,118.5,
+4f21e76230644c8a84e6b8cd65df7d1c,0,0,0.1485,0,accept,,,,,,,,,,68.0,
+4f368356fa72492abb5119e83f97372b,0,0,0.0363,0,accept,,,,,,,,,,131.0,
+4f9ff3be3fed4df3af52078b74d232c6,0,0,0.1073,0,accept,,,,,,,,,,215.5,
+4fd374b21c0145c7ae00d42c89595345,1,1,0.5928,0,accept,,,,,,,,,,0.0,neutron-density impossible 9%; DN crossover 15%; density-porosity OOB 22%
+4fdf95e035f04abb833353067d29d6be,0,0,0.0321,0,accept,,,,,,,,,,14.5,
+4ff18413882b4f7b9e353d1e37f81fdf,1,1,0.5221,0,accept,,,,,,,,,,0.0,neutron-density impossible 13%; density-porosity OOB 20%
+50aece47871b4721932e32d72c2cecf7,0,0,0.152,0,accept,,,,,,,,,,0.0,
+51d67e83f6ca4d668fb9066d8e8d6009,1,1,0.6468,0,accept,,,,,,,,,,0.0,GR-NPHI inverted r=-0.15
+52783ab017664d4cbf39dd34d8546232,0,0,0.0117,0,accept,,,,,,,,,,232.0,
+52f58fdc0c7c41bab346fb3e42a8b919,1,1,0.9895,0,accept,,,,,,,,,,0.0,DN crossover 15%; density-porosity OOB 16%; GR-NPHI inverted r=-0.18
+539f2c800b114ba2b2fdf211c2eade04,1,1,0.3335,0,accept,,,,,,,,,,0.0,DN crossover 15%; density-porosity OOB 18%
+53bca4d0836c4e0faf50675eecd55a04,1,1,0.3596,0,accept,,,,,,,,,,0.0,DN crossover 17%; density-porosity OOB 19%
+5427837d8af9459c9c2dea9540763562,0,0,0.1581,0,accept,,,,,,,,,,68.0,
+542856545cc74971ab4a1b271a706d2a,0,0,0.0355,0,accept,,,,,,,,,,90.5,
+549df0e89dab4a2292bdf2c142fb9486,1,1,2.108,0,accept,,,,,,,,,,0.0,neutron-density impossible 34%; DN crossover 37%; density-porosity OOB 40%; GR-NPHI inverted r=-0.33
+54c1f8ba0cd2454ba58ed1093c7a8429,0,0,0.0278,0,accept,,,,,,,,,,147.5,
+552b4b4b5bff474293d9226c8af380c5,0,0,0.0151,0,accept,,,,,,,,,,68.5,
+55c41398e72049708f03c2100ba39915,0,0,0.0021,0,accept,,,,,,,,,,62.5,
+55de7429048a480d9192606fca60884e,0,0,0.0268,0,accept,,,,,,,,,,125.5,
+56a19b58cf5b4ae4882ef5d8ed75dd53,0,0,0.243,0,accept,,,,,,,,,,132.0,
+56c5b84a2add4ec584d015e58a42ce39,0,0,0.2186,0,accept,,,,,,,,,,114.0,
+57ae68e48f8c4a05985f35a415f1cb84,0,0,0.1494,0,accept,,,,,,,,,,152.5,
+57d3bfec47da45c7b3898f32332bc647,1,1,0.3576,0,accept,,,,,,,,,,0.0,
+580878ae7d3b4a9b860bded4c109178a,1,1,0.9202,0,accept,,,,,,,,,,0.0,neutron-density impossible 14%; DN crossover 18%; density-porosity OOB 15%
+580a1915d0cd40358caf8aff73a84ca8,0,0,0.236,0,accept,,,,,,,,,,148.0,
+5813ee6e470647cfaac17f00da75588a,0,0,0.0322,0,accept,,,,,,,,,,181.0,
+584468aba38248759f0c1c655eba22ef,0,0,0.0096,0,accept,,,,,,,,,,117.0,
+597035d82cfe41faaebd924b13790157,0,0,0.0159,0,accept,,,,,,,,,,62.0,
+59b2f1d6ba034624a79f192c6be277a0,0,0,0.2907,1,accept,,,,,,,,,,30.5,density-porosity OOB 27%
+5a058a96ecea40979ba33cb5b6c1d4e1,0,0,0.0735,0,accept,,,,,,,,,,119.5,
+5a1f27572e304c3580f9a587c080e8f7,0,0,0.0,0,accept,,,,,,,,,,118.0,
+5a5bc1b1ec7a41f495f1872c851d19c0,0,0,0.0124,0,accept,,,,,,,,,,107.0,
+5ab9bd5da7a3447a836707fd8a167bea,0,0,0.0071,0,accept,,,,,,,,,,73.0,
+5aeab6677fec456396735cafe67cf3d4,0,0,0.0607,0,accept,,,,,,,,,,220.5,
+5ba3e39a59ee49929bd438421204be20,1,1,0.5193,0,accept,,,,,,,,,,0.0,DN crossover 25%; density-porosity OOB 27%
+5ba66480b6fe4da2920b6226c07a8b3b,0,0,0.1355,0,accept,,,,,,,,,,148.5,
+5bbe373bfd6c45419636f78b11132a4d,1,1,0.341,0,accept,,,,,,,,,,0.0,density-porosity OOB 27%
+5bc090d0b99144f388696d96f3ce4f90,0,0,0.0642,0,accept,,,,,,,,,,170.0,
+5c1b1ab940dd4d678a3e8172c959d169,0,0,0.0176,0,accept,,,,,,,,,,171.5,
+5c6831af3d334e87b4464fbac45ab7fe,0,0,0.0,0,accept,,,,,,,,,,106.0,
+5ce87b43506346b6a94e20ba64e2ed93,0,0,0.1729,0,accept,,,,,,,,,,311.5,
+5cf62d76879f4c5d8dab9ecf3507fc84,1,1,0.5238,0,accept,,,,,,,,,,0.0,density-porosity OOB 52%
+5d3fc580b44b4ae5a5d7801c5d8888ca,0,0,0.0128,0,accept,,,,,,,,,,112.5,
+5de167660cc24edca73994c434f21321,1,1,0.6489,0,accept,,,,,,,,,,0.0,DN crossover 32%; density-porosity OOB 33%
+5e57ba7cb843402a95f31e7f559d6a8c,0,0,0.1007,0,accept,,,,,,,,,,38.0,
+5f496ea5da694214950e2091a6cf00c9,1,1,1.7264,0,accept,,,,,,,,,,0.0,neutron-density impossible 31%; DN crossover 43%; density-porosity OOB 23%; GR-NPHI inverted r=-0.10
+5fcc58da7f5844268fc6e014c94c9b65,0,0,0.1767,0,accept,,,,,,,,,,214.0,
+6001c06ed5a640b79929ace7290a1175,0,0,0.0749,0,accept,,,,,,,,,,237.0,
+6041687b8ec940608547bcdcccbf005d,1,1,0.4334,0,accept,,,,,,,,,,0.0,DN crossover 21%; density-porosity OOB 22%
+60c98f31baec4aad9e1222a464b317d1,0,0,0.0469,0,accept,,,,,,,,,,179.0,
+611d0b610d91482db907dfd8a97999c1,0,0,0.1095,0,accept,,,,,,,,,,199.5,
+6148f8bdf2094c6abd3a70397cb07231,0,0,0.1397,0,accept,,,,,,,,,,50.5,
+61e37414cff24f0ba822aa2fcc3969b6,0,0,0.2292,0,accept,,,,,,,,,,142.0,density-porosity OOB 20%
+61fd8e88a5c14df1b220c525fc7c492c,0,0,0.0451,0,accept,,,,,,,,,,76.0,
+62015f20333a43e591af13e66f9d02ce,0,0,0.1904,0,accept,,,,,,,,,,156.0,
+6253f321f65c41b1af1c3247f259bd4f,0,0,0.2485,0,accept,,,,,,,,,,105.5,neutron-density impossible 5%
+62e32941223743bbab32b0994bfe3ddd,0,0,0.2179,0,accept,,,,,,,,,,61.5,
+6387711641ea47c2a643f5d0b187c8b4,0,0,0.2463,0,accept,,,,,,,,,,277.0,
+63a86acc883340639a64b1c40e76f9a2,0,0,0.0173,0,accept,,,,,,,,,,73.5,
+63aa4108bb7f4854ae176f6c049aa4ac,0,0,0.0847,0,accept,,,,,,,,,,295.5,
+6402dc49685a4a4a91cd22d3f7a2b371,0,0,0.1451,0,accept,,,,,,,,,,254.5,
+644bd403a9654940a3ffee327be532fb,0,0,0.129,0,accept,,,,,,,,,,224.0,
+646402015f8b4a788c74ae3a0c731d96,0,0,0.0223,0,accept,,,,,,,,,,135.0,
+649ed8edc00441f592c5c2cd925be7a2,0,0,0.0019,0,accept,,,,,,,,,,108.0,
+64e4f8ccf1c8453588866376dfc935b5,0,0,0.2726,1,accept,,,,,,,,,,261.5,
+657d1a739faa4004a66285db8c8e49ec,1,1,0.3205,0,accept,,,,,,,,,,0.0,neutron-density impossible 7%
+659d56e6ad2b4a16a3e0178843c1feb5,0,0,0.1296,0,accept,,,,,,,,,,289.0,
+65fd04818b674ff3b9582c342a295ae3,0,0,0.1513,0,accept,,,,,,,,,,278.5,
+664dc7b84b3340b38ea0848eaaa45121,1,1,0.3508,0,accept,,,,,,,,,,0.0,density-porosity OOB 23%
+66994dcf53a44af5bf2d9900afde905a,0,0,0.0,0,accept,,,,,,,,,,244.0,
+66a8190e6d374fd882a13e54bf5aae98,1,1,0.5643,0,accept,,,,,,,,,,0.0,DN crossover 27%; density-porosity OOB 29%
+66d670bb1c52489b8e300060ca40bfc6,0,0,0.0,0,accept,,,,,,,,,,271.0,
+66ed2ca2f9e5451395d67f12ca00564c,0,0,0.0065,0,accept,,,,,,,,,,184.0,
+6724b5d5cac440418e54a451c33ff1c3,1,1,0.3583,0,accept,,,,,,,,,,0.0,DN crossover 17%; density-porosity OOB 18%
+67727a7b84d8479da3ce84c19b9e0341,0,0,0.034,0,accept,,,,,,,,,,28.5,
+677c30fcaac54bfc840aedb0e209f3a1,0,0,0.0,0,accept,,,,,,,,,,180.5,
+67f3a97e674d4c2a80c0b2b27e20fbe2,0,0,0.1028,0,accept,,,,,,,,,,328.5,
+68e810375d1449fba91f9c65933a9709,0,0,0.0089,0,accept,,,,,,,,,,77.0,
+690c9f8cc0d7411e87cc78d3f46643f1,0,0,0.2112,0,accept,,,,,,,,,,100.5,
+694e0d0be3de4ec5bdd9f30732acc196,0,0,0.0,0,accept,,,,,,,,,,114.5,
+69b5a2341d5f4b2095cdec434860e8ce,0,0,0.1942,0,accept,,,,,,,,,,0.0,density-porosity OOB 19%
+69caf4245971407c9aa6f3ce57961629,0,0,0.072,0,accept,,,,,,,,,,51.5,
+69f6c904ae8c4b83a4cec49f3f806bac,0,0,0.1484,0,accept,,,,,,,,,,3.5,
+6b248910e02a411c8f460ce76957f035,0,0,0.0024,0,accept,,,,,,,,,,144.0,
+6b2ba1842a224d9eb5718401525ae7f7,0,0,0.0512,0,accept,,,,,,,,,,245.0,
+6b6247d738db40859f689615c36e1517,1,1,0.6016,0,accept,,,,,,,,,,0.0,neutron-density impossible 8%; density-porosity OOB 26%
+6d8ddf0099f0436a8bc068ece3a68517,0,0,0.1938,0,accept,,,,,,,,,,34.5,
+6d9eba32ed7d48efaf0f7d649c17ec8a,1,1,0.821,0,accept,,,,,,,,,,0.0,GR-NPHI inverted r=-0.14
+6de968567d204c36880503c0276e5935,0,0,0.1625,0,accept,,,,,,,,,,265.0,
+6e0d172eddcb40edae1cdafa223f5e02,0,0,0.0087,0,accept,,,,,,,,,,17.0,
+6e96490441444631a1c8ec7c6c41a71f,0,0,0.0717,0,accept,,,,,,,,,,139.0,
+6eff62d89280468489074cfa7ebe76ff,0,0,0.0086,0,accept,,,,,,,,,,197.0,
+6f27aa98a82c4bb58b1125c2d4da24e5,0,0,0.0851,0,accept,,,,,,,,,,60.0,
+6f2b992307834b9aa68ccc90a5abff0e,0,0,0.1818,0,accept,,,,,,,,,,605.0,
+6fbdd8ffe8f444d7b7338764d20a5c98,1,1,0.3737,0,accept,,,,,,,,,,0.0,DN crossover 17%; density-porosity OOB 20%
+7025805b33374f0681afe8cbd53ccd41,0,0,0.0016,0,accept,,,,,,,,,,53.5,
+70507a3c6850452bb65eff7a893cbde5,0,0,0.1552,0,accept,,,,,,,,,,215.0,
+70ba73f530784082a18b30f072acf765,0,0,0.1312,0,accept,,,,,,,,,,61.0,
+70e179d08bd04b34ab197839ada14bc5,1,1,0.5149,0,accept,,,,,,,,,,0.0,DN crossover 25%; density-porosity OOB 26%
+711c6956c7684f66858370aa3f1f7920,1,1,0.3965,0,accept,,,,,,,,,,0.0,DN crossover 19%; density-porosity OOB 20%
+711f3ee479f949f8afa0affeecda884d,0,0,0.0,0,accept,,,,,,,,,,38.5,
+714d794f9fba4e75b37d674b36806b5c,0,0,0.1614,0,accept,,,,,,,,,,69.5,
+7159d21d35a644d78ea96ac19f49b47c,0,0,0.0051,0,accept,,,,,,,,,,73.5,
+71b9c71536c2440c82d6eca5a035bc73,0,0,0.0258,0,accept,,,,,,,,,,294.0,
+71c8e8b3c5764cad8dabd74399406254,0,0,0.0,0,accept,,,,,,,,,,30.5,
+72134cf142ce4570b6c9dd07093ddaa1,0,0,0.0,0,accept,,,,,,,,,,221.0,
+7405be281326458086ae2b06b4138d45,0,0,0.2247,0,accept,,,,,,,,,,66.5,density-porosity OOB 19%
+744e31a4d43a419ca3e777ebb4bbb3eb,0,0,0.035,0,accept,,,,,,,,,,38.0,
+7469d6dc462a4929b9881fd429ca163e,1,1,0.4046,0,accept,,,,,,,,,,0.0,DN crossover 19%; density-porosity OOB 21%
+7485491f4add4249b731b80c4321f849,0,0,0.2555,0,accept,,,,,,,,,,51.5,
+74afb3fc3c1e4d5ba9c68eeaf4256f22,0,0,0.2234,0,accept,,,,,,,,,,250.5,
+74db524c584d40e4abfe9a9e4126f33b,0,0,0.0846,0,accept,,,,,,,,,,99.5,
+751ea7d213bf4e21b7d7757d65440cb0,0,0,0.1855,0,accept,,,,,,,,,,47.0,
+75365fe5896143f29a864c5b1011261f,1,1,0.459,0,accept,,,,,,,,,,0.0,neutron-density impossible 7%; density-porosity OOB 33%
+759c85b114444c8aa404264f50bb5e80,0,0,0.1204,0,accept,,,,,,,,,,131.5,
+767ebdeae1304eb88948607046e7c3e4,0,0,0.2143,0,accept,,,,,,,,,,72.5,
+7793cf107fb24b25a6e0d412b742505a,1,1,0.3536,0,accept,,,,,,,,,,0.0,neutron-density impossible 6%; density-porosity OOB 18%
+77a4d3c6db2b44d99d7a40a73901ead1,0,0,0.0903,0,accept,,,,,,,,,,238.5,
+7801cbc7f02d46b29a2481ab87c61a14,1,1,0.8493,0,accept,,,,,,,,,,0.0,neutron-density impossible 19%; DN crossover 22%
+793ca42a450e411da150ae1a9f1b0d3c,0,0,0.0012,0,accept,,,,,,,,,,160.0,
+795d056ed75a4638afc7205f2d1ae0a2,0,0,0.122,0,accept,,,,,,,,,,51.0,
+79653a8c36454549bc6ffae009d86773,0,0,0.0006,0,accept,,,,,,,,,,452.0,
+799a71d81ba640b2ab0c853186755792,0,0,0.0794,0,accept,,,,,,,,,,81.0,
+79e991ba37f74e228cde0aac59ddcc90,0,0,0.0,0,accept,,,,,,,,,,43.0,
+7a7e4b78a0c84c2bb8aa18d9dc347735,0,0,0.025,0,accept,,,,,,,,,,59.5,
+7adabf03f8534bf68765d69b635e2f0f,0,0,0.0354,0,accept,,,,,,,,,,118.5,
+7b40dad206a945ae939590ab2ecbdb12,0,0,0.0194,0,accept,,,,,,,,,,329.5,
+7b53af6b43f2472ca050cf8e87461c8b,0,0,0.0123,0,accept,,,,,,,,,,129.0,
+7b964aa8d0bf49faa2bc24edfcfb630e,0,0,0.2259,0,accept,,,,,,,,,,213.5,
+7bb144bc545b49b489f1901ff410f9a2,1,1,0.3092,0,accept,,,,,,,,,,0.0,density-porosity OOB 16%
+7bbec0f9363a40f0afe6a68f09d42dce,0,0,0.0497,0,accept,,,,,,,,,,57.5,
+7bcefca6719c40cfb2ae619725b7b304,0,0,0.0865,0,accept,,,,,,,,,,94.5,
+7be10a7ff6e24e4f9803fa0742c91c68,1,1,0.3201,0,accept,,,,,,,,,,0.0,DN crossover 16%; density-porosity OOB 16%
+7c2c508766b946bda6131cb5ad981c23,0,0,0.002,0,accept,,,,,,,,,,116.5,
+7cf6f7f9bcf0462bb31cafb795406bda,1,1,0.3335,0,accept,,,,,,,,,,0.0,
+7d2cd7cab9d841ce9433e010585f33d2,0,0,0.1502,0,accept,,,,,,,,,,22.5,
+7d3cbd680e4c498c947ade2eb9ee0359,1,1,0.4383,0,accept,,,,,,,,,,0.0,density-porosity OOB 28%
+7da5e100b6124ad8a0262ce79cbb0d5a,1,1,0.5321,0,accept,,,,,,,,,,0.0,density-porosity OOB 22%
+7dcae6b79ac84176a82f4725f02079fa,0,0,0.1762,0,accept,,,,,,,,,,109.0,
+7eacc63c466c42238199c258289f7023,0,0,0.2385,0,accept,,,,,,,,,,347.0,
+7eae21206de6493386aa9ee9c4a09b68,1,1,1.2318,0,accept,,,,,,,,,,0.0,neutron-density impossible 20%; DN crossover 19%; density-porosity OOB 30%
+7f5968bc6a374a42af17251cc7fcdbff,0,0,0.0,0,accept,,,,,,,,,,93.0,
+7f7fd5accd1146558e521ff393ee34c2,0,0,0.0382,0,accept,,,,,,,,,,159.5,
+805e216becfb4c13a0fca5085bf57f3d,0,0,0.0088,0,accept,,,,,,,,,,203.5,
+808d741861b242c39d1acf866eb9dc9f,0,0,0.1013,0,accept,,,,,,,,,,113.5,
+8123dd70a6314b6aae42f6de34902eb0,0,0,0.0,0,accept,,,,,,,,,,108.0,
+818bf7b67ef541cfa3e625cbe4cdffb0,0,0,0.0165,0,accept,,,,,,,,,,265.5,
+81b5dc9199ca434cb8add24404ca6edf,0,0,0.0086,0,accept,,,,,,,,,,215.0,
+823e4689ce9b41ec9376ca9c1c0a4d0e,0,0,0.1151,0,accept,,,,,,,,,,92.5,
+828473f9a393442c935c7177f065b632,1,1,0.8802,0,accept,,,,,,,,,,0.0,neutron-density impossible 14%; density-porosity OOB 21%
+8290ba756cc54703b8a687cd7d945b18,1,1,2.4431,0,accept,,,,,,,,,,0.0,neutron-density impossible 65%; DN crossover 55%; density-porosity OOB 27%; GR-NPHI inverted r=-0.15
+82b88d129a9c4bab815831863cf87211,0,0,0.0187,0,accept,,,,,,,,,,275.5,
+82b9baf59f84471ea4f39aa71cb67d49,1,1,0.4354,0,accept,,,,,,,,,,0.0,density-porosity OOB 33%
+82dc3f19692645bf97d0d3e8c640af14,0,0,0.1653,0,accept,,,,,,,,,,252.5,
+83bc5727d821493da09e8887373a8e86,0,0,0.0788,0,accept,,,,,,,,,,94.0,
+83f204704cd041279f697d51b9ded9a0,0,0,0.2814,1,accept,,,,,,,,,,45.0,
+83fd2e7dc9dc4a2b8600d4628595cd60,0,0,0.0,0,accept,,,,,,,,,,173.5,
+84a1d803f460421d861d7abf1acd5130,0,0,0.0023,0,accept,,,,,,,,,,104.0,
+84ca01c4e95b4b19b752915c6d486abe,0,0,0.0123,0,accept,,,,,,,,,,47.5,
+8527651d6336490e989e84514eada34b,0,0,0.1968,0,accept,,,,,,,,,,117.0,
+8560f50b32dc45c6889aac5ad43dbc25,1,1,1.1297,0,accept,,,,,,,,,,0.0,neutron-density impossible 7%; DN crossover 19%; density-porosity OOB 38%
+858af715a32a4ecfa0af5178c6670c5f,0,0,0.0015,0,accept,,,,,,,,,,223.0,
+85f7686a35b14fffa6af690a94f7d603,0,0,0.14,0,accept,,,,,,,,,,0.0,
+86180afe35394d7dbd09b696ca93ed95,1,1,0.4428,0,accept,,,,,,,,,,0.0,DN crossover 22%; density-porosity OOB 23%
+876318afee794392b4c68e75315c610e,0,0,0.0038,0,accept,,,,,,,,,,21.5,
+87650c3c40f844a3b4c6a83488b1634a,0,0,0.0374,0,accept,,,,,,,,,,88.5,
+877c8e4acda041fab891b3b63bf0b315,0,0,0.1502,0,accept,,,,,,,,,,257.5,
+87fecbec98c04858a264566508d8288e,0,0,0.0045,0,accept,,,,,,,,,,31.5,
+881938024e424ca5bad68e59aaa1bc1f,0,0,0.0,0,accept,,,,,,,,,,108.5,
+8854657aaa564d119d83a43683a62b9a,1,1,0.5242,0,accept,,,,,,,,,,0.0,DN crossover 22%; density-porosity OOB 30%
+88c74b463cec4dfb905ae3fa1278dd29,0,0,0.0811,0,accept,,,,,,,,,,213.0,
+89256da6f65347c896240bc5df6e3f91,1,1,0.569,0,accept,,,,,,,,,,0.0,DN crossover 22%; density-porosity OOB 23%
+89450217f0bf4a2283fffef463075366,0,0,0.0098,0,accept,,,,,,,,,,174.0,
+89494fdbeb9141f0b68657063292ca51,0,0,0.0065,0,accept,,,,,,,,,,327.0,
+8952f80d33dd4ae89b5e5401f0e4e358,0,0,0.0541,0,accept,,,,,,,,,,184.0,
+89a88982f6b0403498073e64ae5a6498,1,1,1.2153,0,accept,,,,,,,,,,0.0,neutron-density impossible 6%; density-porosity OOB 45%; GR-NPHI inverted r=-0.04
+8a684971d7494407bb79a3964bfac88a,1,1,0.5178,0,accept,,,,,,,,,,0.0,neutron-density impossible 5%; density-porosity OOB 19%
+8a714176c3e44b0ea8bf6ba928a38185,1,1,0.3944,0,accept,,,,,,,,,,0.0,DN crossover 19%; density-porosity OOB 20%
+8a72ee592ca74c9b8ee59e06e954f8f0,0,0,0.2084,0,accept,,,,,,,,,,164.0,
+8a797252026646ae834dea41b42366c3,0,0,0.2401,0,accept,,,,,,,,,,178.5,
+8c190a4a479e4bc2b7119488ba11d79b,0,0,0.1118,0,accept,,,,,,,,,,0.0,
+8c4ebbc892ee48ab888c12e097828554,1,1,0.3264,0,accept,,,,,,,,,,0.0,DN crossover 16%; density-porosity OOB 17%
+8c9c30fd606e4af5a20ccc7c4d31c0e8,1,1,0.7547,0,accept,,,,,,,,,,0.0,DN crossover 37%; density-porosity OOB 38%
+8d00d28949324c9a86e20db0f55006f3,0,0,0.0,0,accept,,,,,,,,,,3.0,
+8d12c9a7a436418e8dd3670223c5bc8b,1,1,0.8809,0,accept,,,,,,,,,,0.0,DN crossover 42%; density-porosity OOB 46%
+8d40a640d18c40b9bd47cd0980e6c7e4,0,0,0.0217,0,accept,,,,,,,,,,108.5,
+8d4944290cfe4370a7ae913decbf6bb4,0,0,0.2125,0,accept,,,,,,,,,,472.0,
+8d57188741134144a200721a1edd8f78,1,1,1.1233,0,accept,,,,,,,,,,0.0,density-porosity OOB 30%; GR-NPHI inverted r=-0.23
+8dc2832dbb3b44c2927fa6c7dab732f3,1,1,0.6108,0,accept,,,,,,,,,,0.0,GR-NPHI inverted r=-0.11
+8e2d55fd74694adf959871faa86fcc00,0,0,0.1166,0,accept,,,,,,,,,,250.5,
+8e68dae41fac463aaa794c8ae83b37c2,1,1,0.352,0,accept,,,,,,,,,,0.0,DN crossover 17%; density-porosity OOB 18%
+8e9cef66b8bc411b97488227a7877bf0,0,0,0.003,0,accept,,,,,,,,,,174.0,
+8eda5182c4e549778297f6d35aa7845f,1,1,0.7651,0,accept,,,,,,,,,,0.0,neutron-density impossible 13%; DN crossover 18%; density-porosity OOB 39%
+8f9f3038baee46cbaf8320876f96cfc1,0,0,0.0666,0,accept,,,,,,,,,,247.5,
+900d6df759c44f4aa5c141879346a0fe,1,1,1.1148,0,accept,,,,,,,,,,0.0,DN crossover 24%; density-porosity OOB 67%
+903f9bb045c340199157c6771277b7d8,0,0,0.1588,0,accept,,,,,,,,,,169.0,
+905fd485c2c24868ab120044ff5b9f34,1,1,1.5019,0,accept,,,,,,,,,,0.0,neutron-density impossible 5%; density-porosity OOB 52%; GR-NPHI inverted r=-0.40
+90766d71506a4d05943bc9088e1778c4,0,0,0.1042,0,accept,,,,,,,,,,0.0,
+908108bbe27944caa52725be57dedd41,1,1,0.3333,0,accept,,,,,,,,,,0.0,density-porosity OOB 33%
+909ff1c56be54456a93755cf30ca5daa,0,0,0.0561,0,accept,,,,,,,,,,138.0,
+90e2c31854a54b40b092144a15b3d7ff,0,0,0.2442,0,accept,,,,,,,,,,219.5,
+91564ccaab1345f19bb5c2d4ce845ec5,0,0,0.0,0,accept,,,,,,,,,,42.5,
+91600b5bfe814aaa9ff7736db94d3878,0,0,0.1023,0,accept,,,,,,,,,,175.5,
+91962be3095845ed97e0199b3f0c2446,0,0,0.0776,0,accept,,,,,,,,,,34.5,
+92683076debb4cb7a880bce3115aa783,0,0,0.0,0,accept,,,,,,,,,,108.5,
+929a8b56055242d1a478e9686eeb500d,0,0,0.0046,0,accept,,,,,,,,,,64.0,
+92f6f4312ffe44b99dbe7c9611443bc4,0,0,0.2822,1,accept,,,,,,,,,,56.0,density-porosity OOB 20%
+93258a8220514a6e84efbce07f5b20a6,0,0,0.1234,0,accept,,,,,,,,,,168.5,
+9336a5b2827143368634523d62391d96,0,0,0.0184,0,accept,,,,,,,,,,282.0,
+937471db8af84267b3cafafa49ff5cb7,0,0,0.0228,0,accept,,,,,,,,,,65.5,
+9374f1aabd0d4c5ab65bfcfe0f85e1ab,0,0,0.0867,0,accept,,,,,,,,,,75.5,
+93c0eaca1dc04ac4b8551a9095827645,0,0,0.0,0,accept,,,,,,,,,,202.5,
+9442ef2e2bd74da8aa05939aacee6d13,1,1,0.3622,0,accept,,,,,,,,,,0.0,DN crossover 17%; density-porosity OOB 20%
+946558f722d24a6f879fb967cef5054f,0,0,0.0028,0,accept,,,,,,,,,,54.0,
+94aa46c74aa14b54b8e52d170f848b45,1,1,0.5663,0,accept,,,,,,,,,,0.0,neutron-density impossible 8%; density-porosity OOB 16%
+94afdb4ea7d143b68059b30d3bfaab1a,1,1,0.945,0,accept,,,,,,,,,,0.0,neutron-density impossible 21%; DN crossover 22%; density-porosity OOB 41%
+94e1fca20c4741099162ce7e867eb8df,0,0,0.0363,0,accept,,,,,,,,,,213.5,
+95ebc9a5921a41e79cfd5fae3e5e2789,0,0,0.051,0,accept,,,,,,,,,,34.0,
+96119ba902094fcfa17d764ad1176dbf,1,1,0.5846,0,accept,,,,,,,,,,0.0,DN crossover 28%; density-porosity OOB 31%
+9619ae3f5756441880486688f02c447b,0,0,0.0,0,accept,,,,,,,,,,180.0,
+96cfb7375392410c91bc8677eaaa3bfc,0,0,0.031,0,accept,,,,,,,,,,215.0,
+9710ad84d3344403ad1d5bcf0dd97b86,0,0,0.0,0,accept,,,,,,,,,,34.0,
+9712423502314bff87aabfc423210e70,1,1,0.376,0,accept,,,,,,,,,,0.0,DN crossover 17%; density-porosity OOB 20%
+971c3664e4af4d0191c677355d6ea76e,0,0,0.0678,0,accept,,,,,,,,,,304.0,
+973d1b7e559b482fb906dd9bf550cd33,0,0,0.0402,0,accept,,,,,,,,,,31.5,
+97c36c0b1d1945bfba8e053809101906,0,0,0.0,0,accept,,,,,,,,,,90.0,
+98a954e064214add831ba4749a3c7296,0,0,0.0015,0,accept,,,,,,,,,,122.5,
+98aa171bfabc4404a601d4ccee30547e,0,0,0.0117,0,accept,,,,,,,,,,191.0,
+99d401e61226485d87b7823f7a8bc480,0,0,0.2488,0,accept,,,,,,,,,,101.0,
+9aa9c39a089945c497f1939d80d1692e,0,0,0.0826,0,accept,,,,,,,,,,277.0,
+9ad37eadb773417193123801d335006c,1,1,0.6663,0,accept,,,,,,,,,,0.0,neutron-density impossible 15%; density-porosity OOB 29%
+9b5d3dd783e54e4ea2d429c6fce0916c,0,0,0.0035,0,accept,,,,,,,,,,55.5,
+9b9966503bb3493fa6b1954015600a63,0,0,0.0,0,accept,,,,,,,,,,56.5,
+9bdb942bb29a49bc892003d60b26b340,0,0,0.1527,0,accept,,,,,,,,,,196.5,
+9c12cfcda50a44458d1a0649aad4191f,0,0,0.0111,0,accept,,,,,,,,,,201.0,
+9c6f43f15d244502a35831ede7e58d29,1,1,0.9684,0,accept,,,,,,,,,,0.0,neutron-density impossible 19%; DN crossover 27%; density-porosity OOB 16%
+9ca4c9a19aed4960be08aaadad293e43,0,0,0.2914,1,accept,,,,,,,,,,106.5,density-porosity OOB 20%
+9cb99c1d34d443ac97e92d706b4e05ca,0,0,0.0946,0,accept,,,,,,,,,,91.5,
+9cde2712a4b84972b695628912fa93b6,0,0,0.0978,0,accept,,,,,,,,,,225.5,
+9d2b909d12094dcc9d85675c1e3acb52,0,0,0.0,0,accept,,,,,,,,,,76.5,
+9d3773700e304fa69afbc87b592665c3,1,1,1.0033,0,accept,,,,,,,,,,0.0,neutron-density impossible 22%; DN crossover 18%; density-porosity OOB 17%
+9d3d8e598c0f4528b7b7324503f4556c,0,0,0.0791,0,accept,,,,,,,,,,145.5,
+9f1930361439466e8a2d227cf700860b,0,0,0.0701,0,accept,,,,,,,,,,128.5,
+9f45e20d5f0a4ace82d5f28617f76080,0,0,0.0299,0,accept,,,,,,,,,,38.5,
+9f67d2a0837848f8879901fcc8555da7,0,0,0.0062,0,accept,,,,,,,,,,120.5,
+9f932f90e3684011ad32261d50ed82d5,0,0,0.1281,0,accept,,,,,,,,,,177.0,
+9fc86c3b4c4741f389afefe1d9c9a2d3,1,1,1.3904,0,accept,,,,,,,,,,0.0,neutron-density impossible 41%; DN crossover 39%; density-porosity OOB 25%
+9fdd132450e64b77984c4e4588e079be,0,0,0.0043,0,accept,,,,,,,,,,91.0,
+a064604070b843c798d37bd88bbff284,0,0,0.0346,0,accept,,,,,,,,,,93.0,
+a0e28777844d46c1abec5380b4b07649,0,0,0.1659,0,accept,,,,,,,,,,98.0,
+a16bd326bbcc459ca1e8210d28e5c01e,0,0,0.0523,0,accept,,,,,,,,,,0.0,
+a26eef2210ca43638ab7b0067de040c3,0,0,0.0464,0,accept,,,,,,,,,,151.5,
+a28e37794f574e2f8152800af0040424,0,0,0.0041,0,accept,,,,,,,,,,141.0,
+a2cbf46395b34ed49b852d0ea172a262,0,0,0.0,0,accept,,,,,,,,,,150.5,
+a320d645e2054123a82b3669793b63f3,1,1,1.1149,0,accept,,,,,,,,,,0.0,neutron-density impossible 25%; DN crossover 30%; density-porosity OOB 25%
+a3cf6645ae064d76a242f86d9972d175,0,0,0.2446,0,accept,,,,,,,,,,97.5,density-porosity OOB 20%
+a3d28d0e14cd4f58a4d251fb3389dc2f,0,0,0.011,0,accept,,,,,,,,,,67.5,
+a41cf0f4f5dd48388f33b4f6e09be702,0,0,0.0153,0,accept,,,,,,,,,,68.0,
+a438378451494396a456f149f081cc12,1,1,1.3907,0,accept,,,,,,,,,,0.0,density-porosity OOB 52%; GR-NPHI inverted r=-0.37
+a4559501a8004d28a9f63b94c481c990,0,0,0.0056,0,accept,,,,,,,,,,33.5,
+a45fca73b84248e4a4ae442da34efaa8,1,1,0.4356,0,accept,,,,,,,,,,0.0,DN crossover 21%; density-porosity OOB 22%
+a4b9b6c969ed4f808c217a1e1b8f5f6f,0,0,0.048,0,accept,,,,,,,,,,43.0,
+a55bcc06b1ff4b43bc827b8e903e1a57,0,0,0.0071,0,accept,,,,,,,,,,89.0,
+a5eab397f611490cab081f34c38d61d4,0,0,0.0995,0,accept,,,,,,,,,,201.0,
+a5f85a78e3fc48788ff95b8b28eb334a,0,0,0.2088,0,accept,,,,,,,,,,114.0,
+a60b518a635b44c28022438b2a5eb3d8,0,0,0.2684,1,accept,,,,,,,,,,232.0,
+a631381fee83432ab7658c474b0558ce,0,0,0.0177,0,accept,,,,,,,,,,132.0,
+a689119fdd3d46a3a7b12c093c79f31e,0,0,0.2449,0,accept,,,,,,,,,,131.0,
+a68c04908e70454fbf93c673414a6fe8,0,0,0.0,0,accept,,,,,,,,,,292.5,
+a6d3c219b70447e5875f38bbacc53248,1,1,0.7398,0,accept,,,,,,,,,,0.0,neutron-density impossible 12%; DN crossover 33%
+a78e207726ac48a996954a994430f518,0,0,0.2184,0,accept,,,,,,,,,,75.0,
+a7e4b87fd1df4999840057ca8631453f,1,1,0.3062,0,accept,,,,,,,,,,0.0,density-porosity OOB 16%
+a8bda776bcf244778b54fba355385518,0,0,0.2893,1,accept,,,,,,,,,,378.5,density-porosity OOB 15%
+a93a88d2e33c4ec6ad1ab4e2ae797dce,1,1,0.4092,0,accept,,,,,,,,,,0.0,
+a9fe7a3ca047416aa1b4a2e9d57f57bd,0,0,0.0966,0,accept,,,,,,,,,,162.5,
+aa3060f71db741ac99eb5d9e81895130,0,0,0.0758,0,accept,,,,,,,,,,83.0,
+aa3727c0c7ca4a29bb31a55b49419be6,0,0,0.087,0,accept,,,,,,,,,,170.0,
+aa4c813d35a24336bf10bcb7252ccd6e,0,0,0.006,0,accept,,,,,,,,,,186.0,
+ab151fef037744ea9939c0d6b26d42c4,0,0,0.042,0,accept,,,,,,,,,,40.0,
+ab6d2876e70c4dca98d2c304ec6186d6,0,0,0.0,0,accept,,,,,,,,,,5.5,
+ab6eb6b2dd9a4fc792d5839ae0445036,1,1,1.0577,0,accept,,,,,,,,,,0.0,DN crossover 52%; density-porosity OOB 53%
+ab7e57dd6ebf4f6c855cda050494db0a,0,0,0.1866,0,accept,,,,,,,,,,164.5,
+ac3e3f35d2454febae8be2f6b169d92b,0,0,0.0043,0,accept,,,,,,,,,,28.0,
+ac4d195ed6ea4b1082e00b9852b80bf1,0,0,0.0975,0,accept,,,,,,,,,,83.5,
+ac734ca8f69b4b4bad5995659dd0b27a,0,0,0.2368,0,accept,,,,,,,,,,271.0,
+acdae78dc83b439baeda9e712a80bfec,1,1,0.3871,0,accept,,,,,,,,,,0.0,DN crossover 18%; density-porosity OOB 20%
+aceea6314f3c4573a6bc98dd34e1dba0,0,0,0.0061,0,accept,,,,,,,,,,38.0,
+ad85fcc34f3d4eb398ff5b2ac65455f1,0,0,0.0,0,accept,,,,,,,,,,66.5,
+ae55584502e041d1b8e16b7392e70b56,0,0,0.0037,0,accept,,,,,,,,,,44.5,
+ae65b0fbc7614443b364781649807d67,0,0,0.029,0,accept,,,,,,,,,,221.0,
+aeb56d260340458ea2e0b3bf2a116234,0,0,0.0673,0,accept,,,,,,,,,,146.5,
+aec5e600db654893b5d480ff583e2c52,1,1,0.6441,0,accept,,,,,,,,,,0.0,density-porosity OOB 64%
+b0923d44342942248c191a8fc9d6a27e,0,0,0.0,0,accept,,,,,,,,,,198.0,
+b103acab7951405290b8d757be9d4a0f,0,0,0.0,0,accept,,,,,,,,,,19.0,
+b3900fb75e874b638828b3a9a44078be,0,0,0.0193,0,accept,,,,,,,,,,45.5,
+b3dfc0f711ed41f0a4d4bdba0810952a,1,1,0.4416,0,accept,,,,,,,,,,0.0,neutron-density impossible 5%; density-porosity OOB 31%
+b3ec413567c942f9bbe1b6cfb6027473,0,0,0.0159,0,accept,,,,,,,,,,29.0,
+b42f4bc91f0d49ceaf464500f509d38b,0,0,0.0932,0,accept,,,,,,,,,,79.0,
+b5287b7f53eb44fe9f9ad7db306d52b9,0,0,0.0,0,accept,,,,,,,,,,58.5,
+b5499bcc4ecd434886faa4fed2de2fc3,1,1,1.3097,0,accept,,,,,,,,,,0.0,neutron-density impossible 35%; DN crossover 36%; density-porosity OOB 43%
+b5814d1687524401980b0726d6f4cac5,0,0,0.0123,0,accept,,,,,,,,,,127.0,
+b599468a046045e9b9c8c2b9f700fa94,0,0,0.166,0,accept,,,,,,,,,,381.0,
+b5e3be2ec4b54373a3d32b80a1fb148b,1,1,0.4336,0,accept,,,,,,,,,,0.0,
+b64d60a22d5d47bc81c5727143f0e0f9,1,1,1.4879,0,accept,,,,,,,,,,0.0,neutron-density impossible 29%; DN crossover 41%; density-porosity OOB 18%
+b6675b01f1f64cf9a0f4c4d6a2902942,0,0,0.0798,0,accept,,,,,,,,,,101.5,
+b77b9826eee942aebaba6c3cb8031016,0,0,0.1976,0,accept,,,,,,,,,,114.0,
+b7902bbcac7b4145ac6fd3e7707fdaf4,0,0,0.0269,0,accept,,,,,,,,,,143.0,
+b847ed7fee84449c8ac2d089a801fea3,0,0,0.1472,0,accept,,,,,,,,,,59.0,
+b91e78bb395d4daa9c2917f2a1c9c8f3,0,0,0.0,0,accept,,,,,,,,,,74.5,
+b948bc838c114cc790dffa2c89ddacfa,1,1,0.8066,0,accept,,,,,,,,,,0.0,neutron-density impossible 12%; density-porosity OOB 20%
+b9ca03ea3f844f239ae2839f0df6da8e,0,0,0.2343,0,accept,,,,,,,,,,441.5,
+ba5a477dc5f24f1993c3f76fa9212e21,0,0,0.0087,0,accept,,,,,,,,,,152.0,
+ba5a768403d743afa27a80795d3ee64b,0,0,0.1193,0,accept,,,,,,,,,,11.5,
+ba5e32d9fd1c41809bb610a487c83567,0,0,0.0043,0,accept,,,,,,,,,,46.5,
+ba6021fa3df94585ad34afb3d90534f0,0,0,0.1242,0,accept,,,,,,,,,,49.0,
+bad8b77631db4671a49c581b7ee4df82,0,0,0.1809,0,accept,,,,,,,,,,233.0,
+bad978d780e84eb8af1419c468e84d70,0,0,0.0288,0,accept,,,,,,,,,,227.0,
+bafc228eca614ed1a0cbec904ea8a24d,0,0,0.1079,0,accept,,,,,,,,,,252.5,
+bb23d425ae744c6d984bcb99ec315682,0,0,0.0378,0,accept,,,,,,,,,,70.0,
+bb2851ad35714dbeae4db5bd904f1969,0,0,0.0,0,accept,,,,,,,,,,33.0,
+bb640c3dfc0f4376999ee9d20bff6e36,0,0,0.0322,0,accept,,,,,,,,,,155.0,
+bc1c4a67625149158ca58e06f2d4a66a,0,0,0.0594,0,accept,,,,,,,,,,164.0,
+bc9077d266c548b4b14c9909b3fcba51,1,1,0.7423,0,accept,,,,,,,,,,0.0,density-porosity OOB 74%
+bc9843e32c134802a45343c9110b9796,0,0,0.0,0,accept,,,,,,,,,,205.5,
+bcb5652be45f497da67ea459f75bbb6b,0,0,0.0037,0,accept,,,,,,,,,,187.0,
+bd3276400e6347d99a1c1119eae23734,0,0,0.2383,0,accept,,,,,,,,,,269.5,
+bdab7eddf2dc439093160a1777a54773,0,0,0.0176,0,accept,,,,,,,,,,97.5,
+be7aa9944e8e4c3c9eaf2f0121a963a6,0,0,0.1203,0,accept,,,,,,,,,,30.0,
+be7d21ed46d943a5a993855183b9fa1c,0,0,0.0964,0,accept,,,,,,,,,,58.5,
+beb6340dba134430a1447fa2672a7291,0,0,0.136,0,accept,,,,,,,,,,113.0,
+bf1c19cbf1304e3686753bb8c0a2a91e,0,0,0.0104,0,accept,,,,,,,,,,94.5,
+bf3c6fe265dc4afa8cd035889eb4d61b,0,0,0.0,0,accept,,,,,,,,,,25.0,
+c02404c20668405a9ab8b15770998ce6,0,0,0.0801,0,accept,,,,,,,,,,121.0,
+c092458894b14e259234749b5967e42c,1,1,0.5157,0,accept,,,,,,,,,,0.0,neutron-density impossible 14%; density-porosity OOB 16%
+c0e45b8eeaf944c4826ef8cf49c395e2,0,0,0.1715,0,accept,,,,,,,,,,96.0,
+c19860ebf4274b2abf54aea18d770c0e,0,0,0.2014,0,accept,,,,,,,,,,232.5,
+c1e436c474d0419f820ce4a3fce2d6e5,1,1,0.3785,0,accept,,,,,,,,,,0.0,neutron-density impossible 8%; density-porosity OOB 18%
+c255171f3cfc4b1db5ab3356e42c96e4,0,0,0.026,0,accept,,,,,,,,,,98.0,
+c25a7d8b0a7d44ec8d39106ef96597dc,0,0,0.0056,0,accept,,,,,,,,,,113.0,
+c25fb6f564f34db99b3d19778b015dad,0,0,0.0,0,accept,,,,,,,,,,85.5,
+c28d56baa82447d7b0c7a6e78c511867,0,0,0.0,0,accept,,,,,,,,,,50.0,
+c3b8a9c281dc4f2ebcf3916ec085c13c,1,1,0.5015,0,accept,,,,,,,,,,0.0,DN crossover 24%; density-porosity OOB 26%
+c3dc22dbb58340a49d809eccea78e62d,0,0,0.2056,0,accept,,,,,,,,,,109.0,density-porosity OOB 21%
+c3ede4a161d043549fa0000381074e05,0,0,0.2982,1,accept,,,,,,,,,,51.0,density-porosity OOB 16%
+c3f165afa995483983440d61381a419c,0,0,0.0,0,accept,,,,,,,,,,36.0,
+c4cb3d4c14ca4603a28e1d1d8b59b6d7,0,0,0.2974,1,accept,,,,,,,,,,227.0,density-porosity OOB 15%
+c4d40331190249ef9c7302e3205cf08f,0,0,0.0929,0,accept,,,,,,,,,,99.5,
+c5cf0da7c29746138727e92524c9d4b0,0,0,0.0069,0,accept,,,,,,,,,,250.5,
+c5d33ed1b0b542f780bc711af2b02798,0,0,0.0485,0,accept,,,,,,,,,,143.5,
+c5e85d0e00084e9d9dbf07885d655a2e,1,1,0.3797,0,accept,,,,,,,,,,0.0,density-porosity OOB 17%
+c5ebde0006154ccdaea6ddf5b2bbfc8c,1,1,0.7083,0,accept,,,,,,,,,,0.0,density-porosity OOB 29%
+c66bb842523249c688670be88df81c8d,0,0,0.2213,0,accept,,,,,,,,,,52.5,
+c6b504ee43354b2e92a3756ea1164de0,0,0,0.0,0,accept,,,,,,,,,,14.5,
+c6f461ac297441d0952fe980b23ea60c,0,0,0.0476,0,accept,,,,,,,,,,124.0,
+c7632c561b644b5ca2f3855c6cdf7cde,0,0,0.1299,0,accept,,,,,,,,,,33.0,
+c7a9efc1d26d42a1afd9895c2ab855a2,1,1,0.7835,0,accept,,,,,,,,,,0.0,neutron-density impossible 21%; DN crossover 18%; density-porosity OOB 29%
+c7d285dff2f3480ca91a42317323054e,0,0,0.0436,0,accept,,,,,,,,,,207.5,
+c81ee4a58ba34758a23bfe984cbbadaa,1,1,0.4947,0,accept,,,,,,,,,,0.0,
+c8814c53241f4a84b9194a462011bc51,0,0,0.053,0,accept,,,,,,,,,,378.5,
+c8be3ea1476c4f069a34ec1a0daaa9db,0,0,0.2304,0,accept,,,,,,,,,,192.0,
+c96dd6f7cffc4e4bbda618df013ee2c1,1,1,0.3259,0,accept,,,,,,,,,,0.0,DN crossover 16%; density-porosity OOB 16%
+c978e883ef8f4c93b86f3f227ab7b926,1,1,0.687,0,accept,,,,,,,,,,0.0,DN crossover 34%; density-porosity OOB 35%
+c99033dbe7bb4dad8951879a1ff57d7d,1,1,0.4203,0,accept,,,,,,,,,,0.0,DN crossover 18%; density-porosity OOB 24%
+c9a04491523f4fc98849cec3f648bdc1,0,0,0.1509,0,accept,,,,,,,,,,298.5,
+c9d166f7174640a7868a7d288ef14904,0,0,0.2201,0,accept,,,,,,,,,,103.5,
+c9f9cff411914d52b693d8baf118c3a0,0,0,0.2489,0,accept,,,,,,,,,,47.5,density-porosity OOB 17%
+ca4637d32cec4e21a8d475aa720bf1df,0,0,0.0418,0,accept,,,,,,,,,,31.5,
+ca4689b32c4140ec8d9bc8818889150d,0,0,0.015,0,accept,,,,,,,,,,115.5,
+ca4ab208f4a84389a1387b742d1c4b44,0,0,0.021,0,accept,,,,,,,,,,143.0,
+ca81cc46eee04cefbe8d10f3356f8e59,0,0,0.0037,0,accept,,,,,,,,,,332.0,
+cc0a41e52dde476390e516a3a96ef843,1,1,0.4758,0,accept,,,,,,,,,,0.0,
+cc32ecc2d11d4bdf8318973b884cff14,0,0,0.0075,0,accept,,,,,,,,,,207.0,
+cc93dccb66794ef1923c6ceff7ccb7d7,0,0,0.0,0,accept,,,,,,,,,,97.0,
+cd179675ae654f719c315e31d0200df4,0,0,0.078,0,accept,,,,,,,,,,411.5,
+cd8100a5c3b64c6c9b8a2696043d0001,0,0,0.0181,0,accept,,,,,,,,,,112.0,
+cd85572c443e4383898c428f53f20b41,1,1,0.8205,0,accept,,,,,,,,,,0.0,GR-NPHI inverted r=-0.32
+cd8be522fa304b35a36f51a27e8c68be,1,1,0.6856,0,accept,,,,,,,,,,0.0,GR-NPHI inverted r=-0.12
+cded5e12318a4748b35946747bdbd5d2,0,0,0.0057,0,accept,,,,,,,,,,29.0,
+ce5da5a4e69a4047ac182de95c1bc6e5,0,0,0.0234,0,accept,,,,,,,,,,9.5,
+cef729da6e2d45849ac7832a5ca90a1e,0,0,0.179,0,accept,,,,,,,,,,159.5,
+cf034af9d4914365b9a56d2a2288eedd,0,0,0.036,0,accept,,,,,,,,,,58.5,
+cf27141d53de458d8f273e50c13e25c5,0,0,0.1547,0,accept,,,,,,,,,,353.5,
+cf7261e14ce44c4ab66a9a7667fafaf9,0,0,0.0922,0,accept,,,,,,,,,,151.5,
+d15dd0da7eb8430aa186a0a41fa36a5c,0,0,0.092,0,accept,,,,,,,,,,288.5,
+d258d34b89454702a1a340a5e356a19f,0,0,0.0973,0,accept,,,,,,,,,,78.5,
+d2c0259526b34681931d9141dd509302,0,0,0.1655,0,accept,,,,,,,,,,253.5,
+d2d409e1b4454c59847a7c29e001eba7,1,1,0.6238,0,accept,,,,,,,,,,0.0,DN crossover 27%; density-porosity OOB 35%
+d3859c9ac5a547708bb04ba029387c62,1,1,0.698,0,accept,,,,,,,,,,0.0,DN crossover 34%; density-porosity OOB 35%
+d3869d66b5ac437a8f7d0c94e94b826b,0,0,0.2764,1,accept,,,,,,,,,,159.0,density-porosity OOB 18%
+d392e94908ac43249c1af8b2046d90ca,0,0,0.131,0,accept,,,,,,,,,,68.5,
+d3a0f82db1f64f63adab91501dfd80ba,0,0,0.0454,0,accept,,,,,,,,,,252.0,
+d40f9485e4854480a9028425547fc569,0,0,0.1999,0,accept,,,,,,,,,,186.5,
+d429e0987e524e79947eff2a88bd9abc,0,0,0.0,0,accept,,,,,,,,,,109.0,
+d4513e8e3a58465eb356902f90001af8,0,0,0.2069,0,accept,,,,,,,,,,117.5,
+d4dd572ac86847f1af539477d5e5e75d,1,1,1.0478,0,accept,,,,,,,,,,0.0,neutron-density impossible 24%; DN crossover 30%; density-porosity OOB 15%
+d502e4a05955466ab6b73765c8d5948f,0,0,0.1547,0,accept,,,,,,,,,,285.0,
+d51dce42be4c424280cb1185500926cd,1,1,0.5596,0,accept,,,,,,,,,,0.0,DN crossover 25%; density-porosity OOB 31%
+d5351619376e44789ab6afed2138b49d,0,0,0.0754,0,accept,,,,,,,,,,138.0,
+d5eea28cfe974dba84658931a3f32348,0,0,0.0318,0,accept,,,,,,,,,,316.5,
+d61843f86fb74ec285afbf79c3712fef,0,0,0.1787,0,accept,,,,,,,,,,0.0,density-porosity OOB 18%
+d62c818a3cd6489a9ae40a8a5d6f9612,1,1,0.5506,0,accept,,,,,,,,,,0.0,neutron-density impossible 7%; density-porosity OOB 30%
+d7358654c48a499990f3e16b17a15a20,0,0,0.0308,0,accept,,,,,,,,,,247.5,
+d75bd7093c354cb2aca568b446167f68,0,0,0.0091,0,accept,,,,,,,,,,13.0,
+d75e4d341b1b45848cf8b43da9175cc1,0,0,0.1342,0,accept,,,,,,,,,,50.0,
+d7a351d4fb6845e5bbd2442560c22e77,0,0,0.0075,0,accept,,,,,,,,,,55.5,
+d80f359ef2f94b1cab958713f14b2e3e,0,0,0.0116,0,accept,,,,,,,,,,156.5,
+d84b2b8a7fc84d51ad4b61bd33ea2ce9,0,0,0.0703,0,accept,,,,,,,,,,24.5,
+d867aaaf67a44a3c90950932f5852c16,0,0,0.0899,0,accept,,,,,,,,,,99.0,
+d8b53930357b40de9416dc5f27ffdbf9,0,0,0.0,0,accept,,,,,,,,,,62.0,
+d8c06de7e4c3430cb3916f9b39d591dc,1,1,1.697,0,accept,,,,,,,,,,0.0,neutron-density impossible 26%; DN crossover 24%; density-porosity OOB 46%; GR-NPHI inverted r=-0.11
+d9220e31256f4cdaa1093e542649e1ac,0,0,0.0,0,accept,,,,,,,,,,20.5,
+d935db9bde5e430faf09dee388a5c0f8,0,0,0.1163,0,accept,,,,,,,,,,166.5,
+d950bd5b60b74d18b48a39eb38fd3bfc,1,1,0.4699,0,accept,,,,,,,,,,0.0,DN crossover 23%; density-porosity OOB 24%
+d9a8c1c5b26e44598164582d63be77ae,1,1,0.4527,0,accept,,,,,,,,,,0.0,neutron-density impossible 9%; density-porosity OOB 19%
+d9af0a2a425d4521b6017fb2f437a77d,1,1,0.4286,0,accept,,,,,,,,,,0.0,DN crossover 20%; density-porosity OOB 22%
+d9d42051df30442092e97169e6b88a33,0,0,0.0031,0,accept,,,,,,,,,,185.0,
+da397955a3b4458b8548f1a13462241a,0,0,0.0138,0,accept,,,,,,,,,,118.5,
+dad532c012a24bbe9ec6c1fbc52be0c8,0,0,0.1112,0,accept,,,,,,,,,,70.5,
+dba51c8b787542debeb171ae8f402031,0,0,0.0806,0,accept,,,,,,,,,,45.5,
+dbb3c3e2a8fa49c9b9281cbffed6e117,1,1,0.3274,0,accept,,,,,,,,,,0.0,DN crossover 16%; density-porosity OOB 17%
+dbc3928d388640f1bb0be566935ca726,0,0,0.0133,0,accept,,,,,,,,,,171.5,
+dc008fdf812840f0843ae1158a9bad74,0,0,0.1221,0,accept,,,,,,,,,,183.0,
+dc6186f7feec4a4999468cfffc5c138a,0,0,0.097,0,accept,,,,,,,,,,353.5,
+dc8efa1e66d942cbb766fe31a202928f,1,1,0.6017,0,accept,,,,,,,,,,0.0,DN crossover 29%; density-porosity OOB 30%
+dd6fe4b5523549de8c5b4a897c33ee0c,0,0,0.0034,0,accept,,,,,,,,,,27.5,
+dd7149c9b3e7413c9f4fd737c8b59647,0,0,0.0129,0,accept,,,,,,,,,,123.0,
+dd78f723570e4d92913f2ae42fac440b,1,1,1.4587,0,accept,,,,,,,,,,0.0,neutron-density impossible 28%; DN crossover 43%; density-porosity OOB 27%
+dd96b61ad76f45f0918e5dee8a00dc3b,0,0,0.2155,0,accept,,,,,,,,,,210.5,
+dda638641ecd4f8f8032d4c3eaf7f259,0,0,0.0,0,accept,,,,,,,,,,116.5,
+dda8ab952bdd4f7dad355d2bbe91d577,0,0,0.0095,0,accept,,,,,,,,,,266.0,
+de8ae31686cb48298598f23477513356,0,0,0.0104,0,accept,,,,,,,,,,203.0,
+deab90838f3e4e658c8d445ed3da06e5,0,0,0.1884,0,accept,,,,,,,,,,270.5,
+df9cde6697e0487490e190b75446ff39,0,0,0.2316,0,accept,,,,,,,,,,139.0,density-porosity OOB 18%
+dfa0b9d8f41d48e7b031550f802867cd,1,1,0.9722,0,accept,,,,,,,,,,0.0,neutron-density impossible 25%; density-porosity OOB 49%
+e006e096b0064fac817060d1153d0a3a,0,0,0.1335,0,accept,,,,,,,,,,106.0,
+e05ad52621c148fd9f137d77c5ba15cd,0,0,0.0081,0,accept,,,,,,,,,,116.5,
+e06e1b2f6bcb40f1a19d40f122ca336a,1,1,0.3468,0,accept,,,,,,,,,,0.0,DN crossover 17%; density-porosity OOB 18%
+e0828c75dd32475c995f338ed69a62f7,0,0,0.0099,0,accept,,,,,,,,,,213.0,
+e0d161f28e4f43cc941fe7e582f462d3,1,1,0.363,0,accept,,,,,,,,,,0.0,DN crossover 17%; density-porosity OOB 19%
+e0eebb8388eb458fa26de7b58b79b281,0,0,0.0,0,accept,,,,,,,,,,85.5,
+e12d898f973b46ddac9561f650a4a2fd,1,1,0.6766,0,accept,,,,,,,,,,0.0,density-porosity OOB 17%
+e142872a7a7445a28b3a5750f5eb945f,1,1,1.0153,0,accept,,,,,,,,,,0.0,neutron-density impossible 9%; density-porosity OOB 41%
+e17e396b443b487bbaf9f2f52d5041e2,0,0,0.0026,0,accept,,,,,,,,,,31.5,
+e182e0e5f2c94cb8bff34af8c35c99b1,0,0,0.1265,0,accept,,,,,,,,,,80.0,
+e213148df85d410a8ccd2a42d06a4108,0,0,0.0069,0,accept,,,,,,,,,,97.5,
+e2af8e4675984cb6870959229f610625,1,1,0.3124,0,accept,,,,,,,,,,0.0,density-porosity OOB 16%
+e343a5cdaf1441368916f90e573f7ab6,0,0,0.1675,0,accept,,,,,,,,,,220.5,
+e35e88b0d8d44788a9f26057e89a377c,0,0,0.0402,0,accept,,,,,,,,,,93.0,
+e3fad88129ac4089b929a4883e260cc4,1,1,0.4337,0,accept,,,,,,,,,,0.0,density-porosity OOB 26%
+e4057cee9d514914a33dd39fa1c54532,0,0,0.0007,0,accept,,,,,,,,,,276.0,
+e405b9ff70884e4daf8ac642ef9f128a,0,0,0.0192,0,accept,,,,,,,,,,94.5,
+e41a5a2a14ec47b088d53933d9597c26,0,0,0.1651,0,accept,,,,,,,,,,148.5,
+e48ea5ccbf4f4464bb30fd2706d1a9be,0,0,0.1811,0,accept,,,,,,,,,,148.0,
+e4f6d57887e647be8a15d685405bef52,1,1,1.3895,0,accept,,,,,,,,,,0.0,density-porosity OOB 29%; GR-NPHI inverted r=-0.52
+e502dbca325047b5a4495b8a0a0246ef,0,0,0.1228,0,accept,,,,,,,,,,182.0,
+e5b3fd61e33f42db9dcace8372d1eddc,1,1,0.8598,0,accept,,,,,,,,,,0.0,DN crossover 41%; density-porosity OOB 45%
+e5b90b7b56c743c9899bba81bd4417d3,0,0,0.1621,0,accept,,,,,,,,,,195.0,
+e60076b801b5448d9d27c6a21cebc3b0,0,0,0.0021,0,accept,,,,,,,,,,101.5,
+e660a77846784c28afc1c60e70d52108,1,1,0.4069,0,accept,,,,,,,,,,0.0,density-porosity OOB 39%
+e69975de8dcb4235b4ab9b98d8a9e28d,0,0,0.0561,0,accept,,,,,,,,,,237.5,
+e760f94fa6cd456e9752205f39326387,0,0,0.1223,0,accept,,,,,,,,,,137.5,
+e7d794d2ef35467388a14e1a52f6aaad,0,0,0.0,0,accept,,,,,,,,,,101.0,
+e863b973090b4b56927dc51c9aba00c5,0,0,0.0313,0,accept,,,,,,,,,,73.5,
+e8a2b69120d24722b3914f69fe4072aa,0,0,0.0118,0,accept,,,,,,,,,,156.5,
+e8a90ff5e9294000b4fc47b17e1ed153,0,0,0.1301,0,accept,,,,,,,,,,323.5,
+e8c01d1435f1417190ed81dd94115f59,1,1,0.7593,0,accept,,,,,,,,,,0.0,neutron-density impossible 10%
+e95c8217b0d74e0786c77b6bf0af5043,0,0,0.0126,0,accept,,,,,,,,,,140.5,
+e9d553b99f7b4d9db6379d295a63f899,0,0,0.0272,0,accept,,,,,,,,,,201.5,
+ea30b3862f4c496cb5599a0d1567950e,1,1,0.4793,0,accept,,,,,,,,,,0.0,neutron-density impossible 9%; density-porosity OOB 23%
+ea5fbc8600524681bea118669a649e92,0,0,0.1033,0,accept,,,,,,,,,,161.5,
+ea69e242e5df4cf3aac89a162390996a,0,0,0.2718,1,accept,,,,,,,,,,125.0,
+eace6fba055d477585f6e290db1664e0,0,0,0.0793,0,accept,,,,,,,,,,214.0,
+eacff8728ab4402590f56b835faac179,0,0,0.0753,0,accept,,,,,,,,,,112.0,
+ec51c597847442cc991e88d84d293496,0,0,0.0852,0,accept,,,,,,,,,,66.0,
+ec54c3af9bac43ba804776c0caf0bfb0,0,0,0.0022,0,accept,,,,,,,,,,36.5,
+ec80e3ad44d845fbb3f57456d9cad21a,0,0,0.1104,0,accept,,,,,,,,,,63.5,
+ec8573e4a97e40588c11e576c41bc4d3,0,0,0.1257,0,accept,,,,,,,,,,258.0,
+ed18e461bc38424fb4c24cdc7c42e61a,1,1,0.9968,0,accept,,,,,,,,,,0.0,neutron-density impossible 19%; DN crossover 23%; density-porosity OOB 27%
+ede3f6be1a204b7faf4ca0c0e084fbcf,1,1,1.4702,0,accept,,,,,,,,,,0.0,density-porosity OOB 30%; GR-NPHI inverted r=-0.60
+edeaff348b034686a6c522fb819696c1,0,0,0.0,0,accept,,,,,,,,,,241.0,
+eea781459df448f8804e9bcd69827de6,0,0,0.0166,0,accept,,,,,,,,,,30.0,
+eebc1b1a86fb4b51a7e78c1c5d6742f8,0,0,0.0048,0,accept,,,,,,,,,,177.0,
+eec4c158698441b584af4b0cea5ad5dd,0,0,0.1343,0,accept,,,,,,,,,,0.0,
+ef8d11b9e5da47ba8e6ca27646c6e0d9,0,0,0.0,0,accept,,,,,,,,,,55.0,
+ef9f6526c6144ec7bd8be8c7d0a35cc2,1,1,0.3519,0,accept,,,,,,,,,,0.0,neutron-density impossible 8%; density-porosity OOB 16%
+f05ec7f6bf1f4f54aae9ac6f9e78a0bb,0,0,0.1642,0,accept,,,,,,,,,,62.5,
+f127184d853745e1a2985ac721f39bf7,0,0,0.1713,0,accept,,,,,,,,,,197.0,
+f1383d6126d846108174d465629f3bae,1,1,0.766,0,accept,,,,,,,,,,0.0,neutron-density impossible 20%; DN crossover 22%
+f194b71229914327819e57e4c33d517b,0,0,0.0918,0,accept,,,,,,,,,,165.5,
+f1b461fdcfdc47ef9680eeb5076fe8ec,1,1,0.5089,0,accept,,,,,,,,,,0.0,density-porosity OOB 34%
+f1ffe3ba914c4f929649c97a7295db03,0,0,0.0,0,accept,,,,,,,,,,99.5,
+f20234c49aac4e20a0fbd81cfc38cfbf,0,0,0.0345,0,accept,,,,,,,,,,86.0,
+f256c803606f40e395990d156679e382,1,1,0.4479,0,accept,,,,,,,,,,0.0,
+f2f3021cb93c44c0813870d2a5114a0d,0,0,0.0138,0,accept,,,,,,,,,,66.0,
+f32b7279e26e4f5982d60f8506149c0c,1,1,0.4142,0,accept,,,,,,,,,,0.0,
+f36a7dde45b94a95afa4cd56d8dc577c,0,0,0.0077,0,accept,,,,,,,,,,96.0,
+f37a34b39f494cbd9ba0ae69aa7058a2,0,0,0.0,0,accept,,,,,,,,,,0.0,
+f3a2f6cf7f084e01bd4a204b0b400d80,0,0,0.0899,0,accept,,,,,,,,,,130.5,
+f3cd8feda4a4411ba90906c785d4f1cc,1,1,0.303,0,accept,,,,,,,,,,0.0,density-porosity OOB 16%
+f435c6e9674a4570b7e5d8c1fa78722e,0,0,0.1248,0,accept,,,,,,,,,,114.0,
+f53dd8dfd99c44cbb1eaf243559453cc,0,0,0.1991,0,accept,,,,,,,,,,195.0,
+f5e466c497054219b6e299f51428c11a,0,0,0.0,0,accept,,,,,,,,,,27.0,
+f5fca5903ea340e0a0391eec1a973cb0,0,0,0.0128,0,accept,,,,,,,,,,129.0,
+f75cf13b946a45acaad94dcfab8b5391,0,0,0.0,0,accept,,,,,,,,,,115.0,
+f7fb5b56cc8440ad8ee6219c16ca8f05,1,1,2.1717,0,accept,,,,,,,,,,0.0,neutron-density impossible 55%; DN crossover 59%; density-porosity OOB 28%
+f84d9db27f194df99c2e97c3d25c69ed,1,1,0.6217,0,accept,,,,,,,,,,0.0,neutron-density impossible 9%; DN crossover 28%; density-porosity OOB 21%
+f8699e9056c74c8ebaa25f2b6e90352c,0,0,0.1517,0,accept,,,,,,,,,,206.0,
+f86ac8ade9f846719126edc7fc985906,0,0,0.0181,0,accept,,,,,,,,,,36.5,
+f8fe9cf54d1c40709d61e349e6607f40,0,0,0.0049,0,accept,,,,,,,,,,322.5,
+f913064f20fd460daafac032a706a8ba,0,0,0.203,0,accept,,,,,,,,,,79.5,
+f94b71b7984044bf82da51c9ce178fae,0,0,0.2326,0,accept,,,,,,,,,,249.0,
+f964f79095a542339bb762cd1a1373dd,0,0,0.0435,0,accept,,,,,,,,,,55.0,
+f9ce89c1fbce426e81190258a3bfb738,0,0,0.0178,0,accept,,,,,,,,,,68.5,
+f9dd3f539b77447a969bd97bfcbebbf9,0,0,0.0135,0,accept,,,,,,,,,,144.5,
+fa270f3706434d7198f5678f5223b285,1,1,0.715,0,accept,,,,,,,,,,0.0,DN crossover 18%; density-porosity OOB 20%
+faa00ea500e64beeac2beeeea27345fc,1,1,0.7623,0,accept,,,,,,,,,,0.0,neutron-density impossible 25%; DN crossover 21%
+fab05afeb73d4fa7977400182439fe1f,0,0,0.2628,1,accept,,,,,,,,,,290.5,
+fab377d2387944af88386bb823273465,1,1,0.4075,0,accept,,,,,,,,,,0.0,DN crossover 20%; density-porosity OOB 21%
+fae90e7d9dcf47579777ec1b58ea857a,0,0,0.0273,0,accept,,,,,,,,,,292.5,
+fb26e8296d1e4d88a05da1cf02485091,0,0,0.1119,0,accept,,,,,,,,,,185.5,
+fb2e7e9aaa3146dc81463fed92e31468,0,0,0.2937,1,accept,,,,,,,,,,240.5,
+fb7014aebc6f4e3481ea52c93935a9bc,1,1,0.3105,0,accept,,,,,,,,,,0.0,DN crossover 15%; density-porosity OOB 16%
+fb96b4c7c87740748b477ab588e43d46,1,1,0.3561,0,accept,,,,,,,,,,0.0,DN crossover 17%; density-porosity OOB 18%
+fb9738649e7d4b72a91c9e4db8439b59,0,0,0.145,0,accept,,,,,,,,,,49.0,
+fc358642dcd9478583c9b898ca45f044,0,0,0.0272,0,accept,,,,,,,,,,155.0,
+fc59fa62ac5846529e3d168a7ec74d5a,0,0,0.0842,0,accept,,,,,,,,,,202.0,
+fc76524ff0b040eb820ea3218d71ff82,0,0,0.1935,0,accept,,,,,,,,,,239.5,
+fc813aad00ef4cb2a4a0f2a75bb6bf34,1,1,0.5304,0,accept,,,,,,,,,,0.0,neutron-density impossible 14%; density-porosity OOB 18%
+fc9cabfd1b0147759ce16f0e4e5cb58e,0,0,0.1248,0,accept,,,,,,,,,,125.0,
+fe075ff50d1d47ab90a27d479ac96207,0,0,0.0069,0,accept,,,,,,,,,,116.0,
+fe0ae12eb2b149f685b525a5a3dede92,1,1,1.1681,0,accept,,,,,,,,,,0.0,density-porosity OOB 31%; GR-NPHI inverted r=-0.30
+fe4e55da1e4a41f788b57933d491e17b,0,0,0.0083,0,accept,,,,,,,,,,87.0,
+ff31bd86858e49bda5b22b96e177eda6,1,1,0.4032,0,accept,,,,,,,,,,0.0,DN crossover 19%; density-porosity OOB 21%
+ff474e749142418b90c167f465c241b2,0,0,0.0369,0,accept,,,,,,,,,,269.5,
+ff55dc44e45840318863347ef0add1d4,0,0,0.0,0,accept,,,,,,,,,,233.0,
+ff71b61cbaf545f6af520c67cf2b1111,0,0,0.096,0,accept,,,,,,,,,,45.0,
+ffd87ab0c8ef4567922207f65d094062,1,1,0.7458,0,accept,,,,,,,,,,0.0,density-porosity OOB 75%
+ffddd41006a3471ca0ea43259d977059,0,0,0.2045,0,accept,,,,,,,,,,140.0,
+fff3555571074fefb82ed582e3d9ccd4,1,1,2.1691,0,accept,,,,,,,,,,0.0,neutron-density impossible 31%; DN crossover 29%; density-porosity OOB 62%; GR-NPHI inverted r=-0.30
